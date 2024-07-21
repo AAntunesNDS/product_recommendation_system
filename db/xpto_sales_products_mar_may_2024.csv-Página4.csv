@@ -1,0 +1,801 @@
+sale_date,product_id,product_title,product_price,product_image_url,store_name,store_id,sales_per_day
+2024-05-05,1,Smartphone Samsung Galaxy S21,529.55,https://www.lorempixel.com/868/364,Amazon,1,8
+2024-05-15,1,Smartphone Samsung Galaxy S21,555.87,https://www.lorempixel.com/486/36,Amazon,1,5
+2024-04-26,1,Smartphone Samsung Galaxy S21,487.37,https://www.lorempixel.com/768/652,C&A,3,6
+2024-05-27,1,Smartphone Samsung Galaxy S21,552.08,https://placekitten.com/937/239,Fnac,9,12
+2024-04-23,1,Smartphone Samsung Galaxy S21,484.87,https://placekitten.com/562/482,Fnac,9,16
+2024-05-10,1,Smartphone Samsung Galaxy S21,484.97,https://placeimg.com/997/89/any,Fnac,9,14
+2024-04-10,1,Smartphone Samsung Galaxy S21,765.51,https://placekitten.com/45/159,Livraria Cultura,12,7
+2024-04-30,1,Smartphone Samsung Galaxy S21,458.99,https://placekitten.com/822/658,Livraria Cultura,12,5
+2024-04-15,1,Smartphone Samsung Galaxy S21,673.86,https://placekitten.com/158/735,Livraria Cultura,12,12
+2024-03-29,1,Smartphone Samsung Galaxy S21,784.67,https://placekitten.com/938/575,Livraria Cultura,12,4
+2024-03-08,1,Smartphone Samsung Galaxy S21,595.72,https://dummyimage.com/520x200,Ricardo Eletro,17,4
+2024-05-03,2,Notebook Dell Inspiron 15,861.02,https://www.lorempixel.com/922/650,Amazon,1,11
+2024-03-03,2,Notebook Dell Inspiron 15,829.35,https://placekitten.com/371/58,Amazon,1,2
+2024-04-19,2,Notebook Dell Inspiron 15,660.15,https://dummyimage.com/794x239,Amazon,1,9
+2024-05-29,2,Notebook Dell Inspiron 15,792.74,https://www.lorempixel.com/397/799,Americanas,2,7
+2024-05-06,2,Notebook Dell Inspiron 15,734.67,https://dummyimage.com/477x282,Carrefour,4,20
+2024-05-07,2,Notebook Dell Inspiron 15,674.23,https://placekitten.com/322/80,Carrefour,4,1
+2024-04-22,2,Notebook Dell Inspiron 15,842.74,https://dummyimage.com/150x1011,Casas Bahia,5,14
+2024-04-03,2,Notebook Dell Inspiron 15,771.19,https://dummyimage.com/360x183,Extra,7,7
+2024-03-21,2,Notebook Dell Inspiron 15,810.21,https://www.lorempixel.com/92/219,Fnac,9,1
+2024-04-22,2,Notebook Dell Inspiron 15,733.94,https://placekitten.com/549/41,Havan,10,11
+2024-04-27,2,Notebook Dell Inspiron 15,872.44,https://dummyimage.com/207x140,Havan,10,20
+2024-04-08,2,Notebook Dell Inspiron 15,773.73,https://placeimg.com/114/12/any,Havan,10,14
+2024-05-29,2,Notebook Dell Inspiron 15,574.17,https://placekitten.com/368/902,Kalunga,11,14
+2024-05-12,2,Notebook Dell Inspiron 15,532.22,https://placeimg.com/165/597/any,Kalunga,11,8
+2024-04-28,2,Notebook Dell Inspiron 15,650.62,https://placekitten.com/19/128,Livraria Cultura,12,15
+2024-05-08,2,Notebook Dell Inspiron 15,846.38,https://dummyimage.com/925x22,Lojas Renner,13,11
+2024-05-05,2,Notebook Dell Inspiron 15,889.29,https://placekitten.com/113/331,Netshoes,15,6
+2024-04-10,2,Notebook Dell Inspiron 15,864.5,https://placeimg.com/643/969/any,Ponto Frio,16,7
+2024-05-22,2,Notebook Dell Inspiron 15,581.52,https://www.lorempixel.com/134/790,Ponto Frio,16,16
+2024-05-08,2,Notebook Dell Inspiron 15,849.78,https://placekitten.com/765/455,Ricardo Eletro,17,20
+2024-05-13,2,Notebook Dell Inspiron 15,614.89,https://placekitten.com/982/700,Shoptime,19,16
+2024-05-03,2,Notebook Dell Inspiron 15,719.72,https://placekitten.com/152/860,Shoptime,19,11
+2024-03-05,3,Fone de Ouvido Bluetooth JBL,523.98,https://dummyimage.com/1018x916,Americanas,2,6
+2024-03-27,3,Fone de Ouvido Bluetooth JBL,691.53,https://placekitten.com/264/626,C&A,3,6
+2024-03-19,3,Fone de Ouvido Bluetooth JBL,838.91,https://placeimg.com/886/185/any,Carrefour,4,18
+2024-03-06,3,Fone de Ouvido Bluetooth JBL,753.32,https://placekitten.com/895/616,Centauro,6,9
+2024-03-19,3,Fone de Ouvido Bluetooth JBL,587.79,https://placekitten.com/615/493,Extra,7,5
+2024-03-04,3,Fone de Ouvido Bluetooth JBL,559.13,https://placekitten.com/545/666,Fast Shop,8,14
+2024-05-01,3,Fone de Ouvido Bluetooth JBL,547.14,https://dummyimage.com/336x76,Fast Shop,8,12
+2024-04-24,3,Fone de Ouvido Bluetooth JBL,759.76,https://www.lorempixel.com/652/73,Havan,10,4
+2024-05-15,3,Fone de Ouvido Bluetooth JBL,767.24,https://placeimg.com/340/119/any,Kalunga,11,4
+2024-04-18,3,Fone de Ouvido Bluetooth JBL,596.86,https://placeimg.com/683/293/any,Kalunga,11,11
+2024-05-02,3,Fone de Ouvido Bluetooth JBL,624.06,https://placekitten.com/364/586,Magazine Luiza,14,19
+2024-04-13,3,Fone de Ouvido Bluetooth JBL,598.75,https://dummyimage.com/207x123,Netshoes,15,18
+2024-05-29,3,Fone de Ouvido Bluetooth JBL,711.14,https://www.lorempixel.com/766/71,Ponto Frio,16,19
+2024-04-22,3,Fone de Ouvido Bluetooth JBL,935.61,https://dummyimage.com/90x190,Ricardo Eletro,17,11
+2024-05-28,3,Fone de Ouvido Bluetooth JBL,569.94,https://placeimg.com/997/338/any,Saraiva,18,17
+2024-05-28,3,Fone de Ouvido Bluetooth JBL,917.12,https://placeimg.com/339/64/any,Saraiva,18,17
+2024-03-21,3,Fone de Ouvido Bluetooth JBL,805.91,https://placekitten.com/632/869,Shoptime,19,17
+2024-05-16,4,Smart TV LG 55',548.91,https://placekitten.com/651/163,Amazon,1,6
+2024-04-15,4,Smart TV LG 55',512.52,https://dummyimage.com/189x404,Americanas,2,15
+2024-04-13,4,Smart TV LG 55',434.27,https://www.lorempixel.com/620/569,Americanas,2,1
+2024-04-03,4,Smart TV LG 55',481.33,https://www.lorempixel.com/1021/430,C&A,3,11
+2024-05-06,4,Smart TV LG 55',522.26,https://placeimg.com/778/379/any,Extra,7,6
+2024-04-08,4,Smart TV LG 55',374.73,https://dummyimage.com/712x185,Fast Shop,8,3
+2024-05-14,4,Smart TV LG 55',526.37,https://placekitten.com/85/879,Havan,10,16
+2024-03-18,4,Smart TV LG 55',346.94,https://www.lorempixel.com/823/853,Havan,10,6
+2024-05-25,4,Smart TV LG 55',609.09,https://placeimg.com/360/120/any,Lojas Renner,13,4
+2024-05-18,4,Smart TV LG 55',426.39,https://dummyimage.com/444x988,Lojas Renner,13,1
+2024-05-19,4,Smart TV LG 55',429.42,https://www.lorempixel.com/269/560,Magazine Luiza,14,16
+2024-05-24,4,Smart TV LG 55',436.43,https://placeimg.com/84/713/any,Magazine Luiza,14,14
+2024-04-30,4,Smart TV LG 55',575.38,https://www.lorempixel.com/491/668,Netshoes,15,6
+2024-04-25,4,Smart TV LG 55',634.26,https://placekitten.com/957/296,Netshoes,15,15
+2024-03-21,4,Smart TV LG 55',360.08,https://www.lorempixel.com/602/951,Ponto Frio,16,9
+2024-04-11,4,Smart TV LG 55',498.42,https://placeimg.com/143/142/any,Ponto Frio,16,3
+2024-03-30,4,Smart TV LG 55',363.46,https://www.lorempixel.com/370/337,Ponto Frio,16,18
+2024-05-02,4,Smart TV LG 55',371.46,https://www.lorempixel.com/95/909,Ricardo Eletro,17,2
+2024-04-21,4,Smart TV LG 55',546.26,https://placeimg.com/209/575/any,Ricardo Eletro,17,14
+2024-05-03,4,Smart TV LG 55',556.61,https://dummyimage.com/709x580,Saraiva,18,15
+2024-05-02,4,Smart TV LG 55',363.54,https://dummyimage.com/817x144,Shoptime,19,1
+2024-04-15,4,Smart TV LG 55',643.06,https://www.lorempixel.com/204/274,Submarino,20,20
+2024-04-03,5,Relógio Inteligente Apple Watch,452.86,https://placekitten.com/669/144,Amazon,1,3
+2024-04-17,5,Relógio Inteligente Apple Watch,491.86,https://dummyimage.com/270x859,Americanas,2,13
+2024-04-13,5,Relógio Inteligente Apple Watch,690.99,https://placekitten.com/506/980,Americanas,2,5
+2024-04-06,5,Relógio Inteligente Apple Watch,489.31,https://placeimg.com/693/139/any,Americanas,2,4
+2024-05-02,5,Relógio Inteligente Apple Watch,437.54,https://dummyimage.com/3x491,C&A,3,18
+2024-03-23,5,Relógio Inteligente Apple Watch,469.08,https://www.lorempixel.com/767/219,C&A,3,14
+2024-05-11,5,Relógio Inteligente Apple Watch,411.29,https://placekitten.com/541/1017,Extra,7,4
+2024-04-19,5,Relógio Inteligente Apple Watch,554.04,https://placekitten.com/476/912,Fast Shop,8,8
+2024-05-23,5,Relógio Inteligente Apple Watch,710.24,https://www.lorempixel.com/431/257,Fnac,9,4
+2024-05-04,5,Relógio Inteligente Apple Watch,436.61,https://www.lorempixel.com/1012/220,Havan,10,2
+2024-04-19,5,Relógio Inteligente Apple Watch,435.57,https://dummyimage.com/396x312,Livraria Cultura,12,18
+2024-05-14,5,Relógio Inteligente Apple Watch,651.87,https://dummyimage.com/432x551,Livraria Cultura,12,1
+2024-03-15,5,Relógio Inteligente Apple Watch,633.65,https://placeimg.com/360/12/any,Magazine Luiza,14,13
+2024-04-02,5,Relógio Inteligente Apple Watch,586.27,https://placekitten.com/20/393,Netshoes,15,14
+2024-05-29,5,Relógio Inteligente Apple Watch,578.77,https://dummyimage.com/339x320,Netshoes,15,4
+2024-04-17,5,Relógio Inteligente Apple Watch,699.27,https://dummyimage.com/894x581,Ricardo Eletro,17,19
+2024-05-30,5,Relógio Inteligente Apple Watch,442.19,https://www.lorempixel.com/151/64,Shoptime,19,17
+2024-05-12,6,Cafeteira Nespresso,316.18,https://placeimg.com/321/123/any,Americanas,2,7
+2024-03-27,6,Cafeteira Nespresso,221.94,https://dummyimage.com/672x230,C&A,3,16
+2024-05-21,6,Cafeteira Nespresso,384.22,https://placekitten.com/931/680,Casas Bahia,5,5
+2024-03-15,6,Cafeteira Nespresso,264.91,https://placekitten.com/874/784,Centauro,6,11
+2024-04-14,6,Cafeteira Nespresso,312.14,https://placeimg.com/281/687/any,Centauro,6,8
+2024-04-18,6,Cafeteira Nespresso,306.16,https://placekitten.com/347/830,Extra,7,8
+2024-04-23,6,Cafeteira Nespresso,231.62,https://placekitten.com/782/1022,Fast Shop,8,19
+2024-03-07,6,Cafeteira Nespresso,322.89,https://www.lorempixel.com/905/1018,Havan,10,9
+2024-04-12,6,Cafeteira Nespresso,243.81,https://placeimg.com/879/910/any,Havan,10,2
+2024-04-02,6,Cafeteira Nespresso,369.21,https://placeimg.com/973/712/any,Kalunga,11,10
+2024-03-22,6,Cafeteira Nespresso,223.62,https://dummyimage.com/60x260,Ponto Frio,16,7
+2024-05-01,6,Cafeteira Nespresso,216.58,https://placeimg.com/893/1008/any,Ricardo Eletro,17,18
+2024-05-02,6,Cafeteira Nespresso,346.22,https://dummyimage.com/938x229,Shoptime,19,18
+2024-04-18,6,Cafeteira Nespresso,264.84,https://placeimg.com/123/79/any,Submarino,20,17
+2024-03-06,7,Aspirador de Pó Robô Roomba,574.43,https://placekitten.com/62/200,Americanas,2,8
+2024-03-30,7,Aspirador de Pó Robô Roomba,550.65,https://placeimg.com/642/653/any,Americanas,2,17
+2024-03-16,7,Aspirador de Pó Robô Roomba,376.63,https://placeimg.com/317/654/any,Carrefour,4,5
+2024-05-28,7,Aspirador de Pó Robô Roomba,488.79,https://dummyimage.com/615x46,Centauro,6,14
+2024-04-28,7,Aspirador de Pó Robô Roomba,347.06,https://placekitten.com/768/1019,Extra,7,10
+2024-03-24,7,Aspirador de Pó Robô Roomba,328.15,https://placekitten.com/757/288,Fnac,9,14
+2024-03-13,7,Aspirador de Pó Robô Roomba,429.54,https://www.lorempixel.com/189/514,Havan,10,18
+2024-04-18,7,Aspirador de Pó Robô Roomba,473.35,https://dummyimage.com/272x27,Kalunga,11,16
+2024-03-16,7,Aspirador de Pó Robô Roomba,418.77,https://placekitten.com/816/589,Livraria Cultura,12,4
+2024-04-17,7,Aspirador de Pó Robô Roomba,507.02,https://dummyimage.com/709x257,Lojas Renner,13,9
+2024-04-16,7,Aspirador de Pó Robô Roomba,525.24,https://www.lorempixel.com/171/663,Magazine Luiza,14,9
+2024-04-16,7,Aspirador de Pó Robô Roomba,418.3,https://placekitten.com/28/638,Netshoes,15,16
+2024-04-06,7,Aspirador de Pó Robô Roomba,552.56,https://placekitten.com/976/345,Ricardo Eletro,17,14
+2024-05-13,8,Câmera Digital Canon EOS,1033.2,https://placeimg.com/38/520/any,Americanas,2,20
+2024-05-15,8,Câmera Digital Canon EOS,1082.77,https://dummyimage.com/261x821,Americanas,2,18
+2024-05-06,8,Câmera Digital Canon EOS,782.46,https://www.lorempixel.com/263/955,Extra,7,13
+2024-04-10,8,Câmera Digital Canon EOS,929.93,https://www.lorempixel.com/269/270,Extra,7,5
+2024-04-01,8,Câmera Digital Canon EOS,900.81,https://placeimg.com/538/664/any,Fast Shop,8,16
+2024-04-17,8,Câmera Digital Canon EOS,952.2,https://www.lorempixel.com/104/104,Fnac,9,18
+2024-03-06,8,Câmera Digital Canon EOS,725.21,https://placeimg.com/384/389/any,Havan,10,17
+2024-04-21,8,Câmera Digital Canon EOS,905.01,https://www.lorempixel.com/757/945,Havan,10,17
+2024-04-17,8,Câmera Digital Canon EOS,845.38,https://placekitten.com/377/1016,Havan,10,16
+2024-04-24,8,Câmera Digital Canon EOS,751.66,https://placeimg.com/862/336/any,Havan,10,15
+2024-04-18,8,Câmera Digital Canon EOS,689.68,https://placekitten.com/318/986,Livraria Cultura,12,2
+2024-03-04,8,Câmera Digital Canon EOS,1205.96,https://placekitten.com/755/26,Magazine Luiza,14,18
+2024-03-27,8,Câmera Digital Canon EOS,716.92,https://placeimg.com/189/393/any,Netshoes,15,5
+2024-05-24,8,Câmera Digital Canon EOS,789.07,https://placekitten.com/471/969,Netshoes,15,8
+2024-05-26,8,Câmera Digital Canon EOS,903.93,https://dummyimage.com/796x433,Ricardo Eletro,17,5
+2024-05-07,8,Câmera Digital Canon EOS,981.42,https://dummyimage.com/1014x378,Saraiva,18,4
+2024-03-21,9,Console Playstation 5,688.46,https://www.lorempixel.com/654/509,Amazon,1,12
+2024-04-23,9,Console Playstation 5,980.57,https://placeimg.com/205/364/any,Carrefour,4,20
+2024-05-29,9,Console Playstation 5,743.79,https://www.lorempixel.com/398/389,Casas Bahia,5,10
+2024-05-14,9,Console Playstation 5,852.05,https://dummyimage.com/554x656,Casas Bahia,5,3
+2024-04-23,9,Console Playstation 5,534.6,https://placeimg.com/301/1/any,Fast Shop,8,1
+2024-03-30,9,Console Playstation 5,868.42,https://www.lorempixel.com/983/469,Fnac,9,6
+2024-03-29,9,Console Playstation 5,959.82,https://dummyimage.com/966x687,Havan,10,14
+2024-03-23,9,Console Playstation 5,692.71,https://placeimg.com/538/728/any,Kalunga,11,11
+2024-04-13,9,Console Playstation 5,693.03,https://dummyimage.com/624x52,Livraria Cultura,12,10
+2024-05-17,9,Console Playstation 5,781.52,https://placeimg.com/951/141/any,Magazine Luiza,14,19
+2024-05-21,9,Console Playstation 5,902.18,https://dummyimage.com/220x94,Magazine Luiza,14,15
+2024-05-01,9,Console Playstation 5,696.12,https://placekitten.com/729/535,Saraiva,18,18
+2024-04-02,9,Console Playstation 5,825.21,https://dummyimage.com/303x85,Submarino,20,16
+2024-04-01,9,Console Playstation 5,975.53,https://placekitten.com/257/969,Submarino,20,14
+2024-04-06,10,Kindle Paperwhite,302.95,https://placeimg.com/813/817/any,Americanas,2,11
+2024-03-18,10,Kindle Paperwhite,348.15,https://www.lorempixel.com/613/544,C&A,3,4
+2024-05-06,10,Kindle Paperwhite,417.31,https://placeimg.com/90/212/any,Casas Bahia,5,6
+2024-03-18,10,Kindle Paperwhite,289.98,https://www.lorempixel.com/607/601,Fast Shop,8,4
+2024-03-07,10,Kindle Paperwhite,346.73,https://www.lorempixel.com/755/108,Fnac,9,16
+2024-04-03,10,Kindle Paperwhite,403.37,https://placeimg.com/156/154/any,Havan,10,1
+2024-04-19,10,Kindle Paperwhite,251.29,https://placekitten.com/460/772,Havan,10,18
+2024-03-30,10,Kindle Paperwhite,337.58,https://www.lorempixel.com/292/139,Livraria Cultura,12,16
+2024-03-27,10,Kindle Paperwhite,257.55,https://dummyimage.com/592x642,Lojas Renner,13,18
+2024-03-20,10,Kindle Paperwhite,239.05,https://dummyimage.com/580x845,Saraiva,18,2
+2024-03-04,10,Kindle Paperwhite,364.21,https://placekitten.com/272/951,Shoptime,19,5
+2024-05-04,10,Kindle Paperwhite,328.02,https://placekitten.com/358/738,Submarino,20,3
+2024-05-11,11,Tablet Samsung Galaxy Tab,294.1,https://placeimg.com/968/83/any,Americanas,2,15
+2024-04-10,11,Tablet Samsung Galaxy Tab,255.54,https://placekitten.com/208/266,C&A,3,19
+2024-03-18,11,Tablet Samsung Galaxy Tab,293.55,https://www.lorempixel.com/508/256,C&A,3,6
+2024-05-28,11,Tablet Samsung Galaxy Tab,307.22,https://placeimg.com/560/769/any,Carrefour,4,12
+2024-03-29,11,Tablet Samsung Galaxy Tab,273.58,https://placekitten.com/1007/770,Carrefour,4,3
+2024-04-08,11,Tablet Samsung Galaxy Tab,207.98,https://www.lorempixel.com/557/475,Casas Bahia,5,8
+2024-04-24,11,Tablet Samsung Galaxy Tab,300.94,https://placekitten.com/972/686,Centauro,6,14
+2024-03-26,11,Tablet Samsung Galaxy Tab,298.16,https://dummyimage.com/767x547,Extra,7,9
+2024-05-20,11,Tablet Samsung Galaxy Tab,307.29,https://dummyimage.com/718x91,Extra,7,7
+2024-03-05,11,Tablet Samsung Galaxy Tab,323.65,https://placekitten.com/645/396,Extra,7,10
+2024-05-17,11,Tablet Samsung Galaxy Tab,211.32,https://placeimg.com/7/401/any,Havan,10,15
+2024-04-01,11,Tablet Samsung Galaxy Tab,251.28,https://www.lorempixel.com/75/139,Kalunga,11,3
+2024-03-04,11,Tablet Samsung Galaxy Tab,278.05,https://www.lorempixel.com/90/504,Lojas Renner,13,9
+2024-04-07,11,Tablet Samsung Galaxy Tab,336.89,https://placekitten.com/406/26,Lojas Renner,13,10
+2024-03-25,11,Tablet Samsung Galaxy Tab,218.83,https://placeimg.com/697/747/any,Lojas Renner,13,6
+2024-04-20,11,Tablet Samsung Galaxy Tab,277.5,https://www.lorempixel.com/362/339,Ponto Frio,16,7
+2024-04-09,11,Tablet Samsung Galaxy Tab,274.35,https://www.lorempixel.com/762/961,Ricardo Eletro,17,5
+2024-03-15,11,Tablet Samsung Galaxy Tab,305.04,https://www.lorempixel.com/593/1018,Shoptime,19,4
+2024-05-12,11,Tablet Samsung Galaxy Tab,270.82,https://placekitten.com/208/956,Submarino,20,1
+2024-03-13,11,Tablet Samsung Galaxy Tab,230.22,https://www.lorempixel.com/206/726,Submarino,20,17
+2024-04-21,11,Tablet Samsung Galaxy Tab,262.66,https://placekitten.com/574/827,Submarino,20,2
+2024-04-14,12,Impressora Multifuncional HP,554.13,https://placekitten.com/64/831,Amazon,1,20
+2024-05-11,12,Impressora Multifuncional HP,343.84,https://dummyimage.com/63x342,Amazon,1,7
+2024-05-07,12,Impressora Multifuncional HP,334.64,https://placeimg.com/690/123/any,Amazon,1,16
+2024-05-04,12,Impressora Multifuncional HP,477.14,https://placekitten.com/8/769,Americanas,2,6
+2024-03-27,12,Impressora Multifuncional HP,421.04,https://placekitten.com/9/593,Americanas,2,19
+2024-03-10,12,Impressora Multifuncional HP,355.2,https://dummyimage.com/961x1015,Americanas,2,16
+2024-05-08,12,Impressora Multifuncional HP,430.82,https://placeimg.com/224/908/any,C&A,3,2
+2024-03-25,12,Impressora Multifuncional HP,335.79,https://placeimg.com/728/359/any,Carrefour,4,9
+2024-03-08,12,Impressora Multifuncional HP,391.77,https://placeimg.com/404/216/any,Carrefour,4,17
+2024-05-11,12,Impressora Multifuncional HP,532.48,https://placeimg.com/344/582/any,Carrefour,4,12
+2024-04-14,12,Impressora Multifuncional HP,334.19,https://www.lorempixel.com/957/813,Casas Bahia,5,12
+2024-04-24,12,Impressora Multifuncional HP,471.68,https://www.lorempixel.com/813/141,Casas Bahia,5,1
+2024-05-17,12,Impressora Multifuncional HP,530.47,https://placeimg.com/929/242/any,Casas Bahia,5,20
+2024-04-21,12,Impressora Multifuncional HP,412.7,https://dummyimage.com/773x440,Centauro,6,19
+2024-03-04,12,Impressora Multifuncional HP,555.13,https://placeimg.com/969/753/any,Centauro,6,3
+2024-03-14,12,Impressora Multifuncional HP,322.33,https://dummyimage.com/375x700,Fast Shop,8,11
+2024-03-13,12,Impressora Multifuncional HP,363.5,https://www.lorempixel.com/363/925,Havan,10,5
+2024-04-25,12,Impressora Multifuncional HP,318.01,https://placeimg.com/673/425/any,Kalunga,11,19
+2024-05-17,12,Impressora Multifuncional HP,481.87,https://www.lorempixel.com/924/595,Livraria Cultura,12,13
+2024-04-20,12,Impressora Multifuncional HP,311.12,https://www.lorempixel.com/590/609,Ponto Frio,16,17
+2024-03-12,12,Impressora Multifuncional HP,447.53,https://placeimg.com/639/935/any,Saraiva,18,3
+2024-04-18,12,Impressora Multifuncional HP,554.6,https://placekitten.com/286/656,Shoptime,19,13
+2024-03-25,13,Monitor Gamer AOC,229.09,https://dummyimage.com/903x281,Amazon,1,13
+2024-03-06,13,Monitor Gamer AOC,331.04,https://placeimg.com/90/153/any,Americanas,2,10
+2024-04-07,13,Monitor Gamer AOC,292.91,https://dummyimage.com/95x593,C&A,3,15
+2024-04-04,13,Monitor Gamer AOC,232.53,https://www.lorempixel.com/326/498,C&A,3,8
+2024-03-14,13,Monitor Gamer AOC,256.14,https://placeimg.com/692/20/any,Carrefour,4,18
+2024-03-16,13,Monitor Gamer AOC,185.53,https://dummyimage.com/927x246,Carrefour,4,1
+2024-04-06,13,Monitor Gamer AOC,246.28,https://www.lorempixel.com/464/163,Centauro,6,1
+2024-05-20,13,Monitor Gamer AOC,255.31,https://dummyimage.com/266x830,Centauro,6,4
+2024-03-01,13,Monitor Gamer AOC,261.67,https://www.lorempixel.com/901/262,Centauro,6,2
+2024-03-23,13,Monitor Gamer AOC,212.45,https://placeimg.com/945/580/any,Centauro,6,10
+2024-05-20,13,Monitor Gamer AOC,292.59,https://placekitten.com/893/526,Extra,7,10
+2024-05-30,13,Monitor Gamer AOC,217.42,https://dummyimage.com/738x742,Fast Shop,8,5
+2024-03-11,13,Monitor Gamer AOC,307.01,https://www.lorempixel.com/925/327,Kalunga,11,14
+2024-03-10,13,Monitor Gamer AOC,262.38,https://placeimg.com/382/787/any,Livraria Cultura,12,13
+2024-04-17,13,Monitor Gamer AOC,223.56,https://placekitten.com/745/718,Lojas Renner,13,5
+2024-04-14,13,Monitor Gamer AOC,314.77,https://placekitten.com/456/731,Magazine Luiza,14,16
+2024-04-19,13,Monitor Gamer AOC,310.83,https://www.lorempixel.com/705/83,Netshoes,15,7
+2024-04-07,13,Monitor Gamer AOC,323.06,https://placeimg.com/629/830/any,Ricardo Eletro,17,17
+2024-04-30,13,Monitor Gamer AOC,253.83,https://www.lorempixel.com/434/855,Saraiva,18,4
+2024-03-10,13,Monitor Gamer AOC,213.8,https://www.lorempixel.com/217/531,Saraiva,18,7
+2024-05-17,13,Monitor Gamer AOC,257.43,https://dummyimage.com/460x504,Submarino,20,10
+2024-05-20,13,Monitor Gamer AOC,231.03,https://placeimg.com/378/748/any,Submarino,20,8
+2024-05-15,14,Teclado Mecânico Razer,261.69,https://placekitten.com/81/743,Amazon,1,17
+2024-05-11,14,Teclado Mecânico Razer,355.59,https://placeimg.com/554/142/any,C&A,3,6
+2024-04-30,14,Teclado Mecânico Razer,327.14,https://dummyimage.com/940x984,C&A,3,2
+2024-04-02,14,Teclado Mecânico Razer,318.36,https://placekitten.com/974/748,Casas Bahia,5,7
+2024-05-22,14,Teclado Mecânico Razer,291.24,https://dummyimage.com/941x820,Centauro,6,18
+2024-04-30,14,Teclado Mecânico Razer,317.75,https://www.lorempixel.com/263/315,Extra,7,8
+2024-05-26,14,Teclado Mecânico Razer,375.99,https://placekitten.com/199/300,Fast Shop,8,9
+2024-03-12,14,Teclado Mecânico Razer,321.96,https://www.lorempixel.com/222/567,Havan,10,6
+2024-05-07,14,Teclado Mecânico Razer,414.37,https://placekitten.com/649/204,Havan,10,15
+2024-04-07,14,Teclado Mecânico Razer,439.8,https://www.lorempixel.com/743/152,Livraria Cultura,12,2
+2024-05-28,14,Teclado Mecânico Razer,281.87,https://placeimg.com/812/853/any,Lojas Renner,13,20
+2024-04-18,14,Teclado Mecânico Razer,251.12,https://placekitten.com/147/343,Magazine Luiza,14,17
+2024-05-25,14,Teclado Mecânico Razer,342.21,https://placekitten.com/872/293,Netshoes,15,8
+2024-04-07,14,Teclado Mecânico Razer,275.28,https://placeimg.com/887/722/any,Ricardo Eletro,17,15
+2024-04-05,15,Mouse Logitech MX Master,980.34,https://placeimg.com/57/849/any,Amazon,1,7
+2024-04-21,15,Mouse Logitech MX Master,905.23,https://placeimg.com/556/447/any,Americanas,2,14
+2024-05-05,15,Mouse Logitech MX Master,564.87,https://placekitten.com/15/697,Americanas,2,13
+2024-05-20,15,Mouse Logitech MX Master,932.81,https://dummyimage.com/250x102,Carrefour,4,19
+2024-05-28,15,Mouse Logitech MX Master,915.72,https://placekitten.com/458/97,Casas Bahia,5,3
+2024-05-22,15,Mouse Logitech MX Master,661.85,https://placekitten.com/768/10,Centauro,6,8
+2024-05-13,15,Mouse Logitech MX Master,615.09,https://placekitten.com/341/117,Centauro,6,14
+2024-03-22,15,Mouse Logitech MX Master,882.05,https://www.lorempixel.com/644/502,Fast Shop,8,20
+2024-04-20,15,Mouse Logitech MX Master,873.93,https://dummyimage.com/355x170,Fast Shop,8,14
+2024-05-17,15,Mouse Logitech MX Master,623.28,https://dummyimage.com/651x362,Fnac,9,3
+2024-03-25,15,Mouse Logitech MX Master,963.24,https://placekitten.com/711/799,Havan,10,19
+2024-04-18,15,Mouse Logitech MX Master,815.38,https://placekitten.com/280/547,Livraria Cultura,12,6
+2024-05-05,15,Mouse Logitech MX Master,956.24,https://placeimg.com/117/924/any,Saraiva,18,13
+2024-03-02,15,Mouse Logitech MX Master,681.57,https://dummyimage.com/176x899,Shoptime,19,2
+2024-03-30,15,Mouse Logitech MX Master,763.29,https://dummyimage.com/848x540,Submarino,20,1
+2024-05-09,16,Headset Gamer HyperX,774.18,https://placekitten.com/690/809,Amazon,1,3
+2024-03-09,16,Headset Gamer HyperX,1060.82,https://dummyimage.com/540x800,Amazon,1,6
+2024-05-16,16,Headset Gamer HyperX,829.4,https://www.lorempixel.com/750/483,Carrefour,4,9
+2024-05-10,16,Headset Gamer HyperX,982.92,https://placekitten.com/702/694,Extra,7,4
+2024-03-24,16,Headset Gamer HyperX,1131.17,https://placeimg.com/548/284/any,Extra,7,4
+2024-05-23,16,Headset Gamer HyperX,921.98,https://dummyimage.com/70x62,Fnac,9,18
+2024-05-26,16,Headset Gamer HyperX,902.82,https://dummyimage.com/478x681,Kalunga,11,18
+2024-04-01,16,Headset Gamer HyperX,708.58,https://www.lorempixel.com/442/963,Livraria Cultura,12,15
+2024-04-16,16,Headset Gamer HyperX,707.94,https://placeimg.com/79/116/any,Livraria Cultura,12,5
+2024-05-02,16,Headset Gamer HyperX,809.55,https://www.lorempixel.com/540/167,Livraria Cultura,12,16
+2024-04-27,16,Headset Gamer HyperX,828.17,https://dummyimage.com/285x291,Ponto Frio,16,6
+2024-03-15,16,Headset Gamer HyperX,826.89,https://dummyimage.com/179x319,Saraiva,18,2
+2024-05-10,16,Headset Gamer HyperX,936.55,https://placeimg.com/224/970/any,Shoptime,19,19
+2024-05-01,16,Headset Gamer HyperX,682.44,https://dummyimage.com/620x577,Submarino,20,2
+2024-03-14,16,Headset Gamer HyperX,742.81,https://www.lorempixel.com/663/776,Submarino,20,2
+2024-04-14,17,Bicicleta Ergométrica Kikos,429.13,https://dummyimage.com/463x688,Amazon,1,3
+2024-04-08,17,Bicicleta Ergométrica Kikos,265.69,https://placeimg.com/311/196/any,Carrefour,4,19
+2024-04-09,17,Bicicleta Ergométrica Kikos,380.17,https://www.lorempixel.com/154/360,Carrefour,4,10
+2024-05-27,17,Bicicleta Ergométrica Kikos,273.92,https://placekitten.com/842/646,Casas Bahia,5,6
+2024-05-04,17,Bicicleta Ergométrica Kikos,286.17,https://placekitten.com/301/516,Extra,7,10
+2024-03-06,17,Bicicleta Ergométrica Kikos,377.36,https://www.lorempixel.com/613/355,Fast Shop,8,17
+2024-03-16,17,Bicicleta Ergométrica Kikos,270.41,https://placekitten.com/961/410,Fnac,9,3
+2024-04-24,17,Bicicleta Ergométrica Kikos,420.57,https://dummyimage.com/411x515,Netshoes,15,19
+2024-03-14,17,Bicicleta Ergométrica Kikos,297.06,https://placeimg.com/67/334/any,Ponto Frio,16,7
+2024-04-30,18,Máquina de Lavar Roupas Brastemp,363.53,https://www.lorempixel.com/990/871,Americanas,2,20
+2024-05-16,18,Máquina de Lavar Roupas Brastemp,234.34,https://placekitten.com/745/485,C&A,3,18
+2024-05-07,18,Máquina de Lavar Roupas Brastemp,414.67,https://placeimg.com/124/806/any,C&A,3,4
+2024-05-10,18,Máquina de Lavar Roupas Brastemp,263.03,https://www.lorempixel.com/554/104,C&A,3,4
+2024-05-15,18,Máquina de Lavar Roupas Brastemp,235.01,https://placekitten.com/364/362,Carrefour,4,13
+2024-04-05,18,Máquina de Lavar Roupas Brastemp,350.27,https://placeimg.com/659/111/any,Casas Bahia,5,2
+2024-05-10,18,Máquina de Lavar Roupas Brastemp,397.51,https://www.lorempixel.com/973/730,Casas Bahia,5,14
+2024-05-23,18,Máquina de Lavar Roupas Brastemp,233.68,https://placeimg.com/828/459/any,Casas Bahia,5,10
+2024-03-10,18,Máquina de Lavar Roupas Brastemp,365.42,https://dummyimage.com/450x157,Casas Bahia,5,17
+2024-04-20,18,Máquina de Lavar Roupas Brastemp,228.88,https://placeimg.com/696/638/any,Centauro,6,1
+2024-04-17,18,Máquina de Lavar Roupas Brastemp,330.0,https://dummyimage.com/188x152,Fnac,9,5
+2024-04-12,18,Máquina de Lavar Roupas Brastemp,278.9,https://placeimg.com/25/485/any,Fnac,9,10
+2024-04-21,18,Máquina de Lavar Roupas Brastemp,260.05,https://www.lorempixel.com/993/317,Fnac,9,11
+2024-03-19,18,Máquina de Lavar Roupas Brastemp,314.62,https://placeimg.com/977/218/any,Havan,10,15
+2024-05-06,18,Máquina de Lavar Roupas Brastemp,307.63,https://dummyimage.com/183x245,Lojas Renner,13,13
+2024-05-12,18,Máquina de Lavar Roupas Brastemp,268.08,https://placekitten.com/466/881,Magazine Luiza,14,11
+2024-03-29,18,Máquina de Lavar Roupas Brastemp,382.01,https://placeimg.com/392/500/any,Magazine Luiza,14,17
+2024-04-29,18,Máquina de Lavar Roupas Brastemp,355.18,https://www.lorempixel.com/232/823,Netshoes,15,6
+2024-04-18,18,Máquina de Lavar Roupas Brastemp,340.0,https://placekitten.com/529/447,Ponto Frio,16,18
+2024-03-09,18,Máquina de Lavar Roupas Brastemp,344.77,https://placeimg.com/604/421/any,Ricardo Eletro,17,7
+2024-04-02,18,Máquina de Lavar Roupas Brastemp,282.67,https://dummyimage.com/781x558,Ricardo Eletro,17,1
+2024-05-16,18,Máquina de Lavar Roupas Brastemp,317.16,https://placeimg.com/326/98/any,Submarino,20,7
+2024-05-13,18,Máquina de Lavar Roupas Brastemp,233.34,https://dummyimage.com/733x611,Submarino,20,18
+2024-04-05,19,Geladeira Inverse Brastemp,651.31,https://dummyimage.com/687x263,Amazon,1,5
+2024-05-20,19,Geladeira Inverse Brastemp,370.26,https://placekitten.com/456/562,Americanas,2,7
+2024-05-06,19,Geladeira Inverse Brastemp,615.88,https://placekitten.com/1/751,Americanas,2,2
+2024-05-12,19,Geladeira Inverse Brastemp,498.39,https://placeimg.com/617/909/any,C&A,3,6
+2024-05-03,19,Geladeira Inverse Brastemp,653.95,https://www.lorempixel.com/499/645,Carrefour,4,6
+2024-04-24,19,Geladeira Inverse Brastemp,367.74,https://placekitten.com/783/561,Casas Bahia,5,8
+2024-05-17,19,Geladeira Inverse Brastemp,562.11,https://dummyimage.com/862x958,Extra,7,13
+2024-05-03,19,Geladeira Inverse Brastemp,610.18,https://placeimg.com/592/180/any,Fast Shop,8,13
+2024-05-29,19,Geladeira Inverse Brastemp,545.9,https://placeimg.com/668/553/any,Fnac,9,5
+2024-05-17,19,Geladeira Inverse Brastemp,583.81,https://dummyimage.com/231x146,Fnac,9,16
+2024-04-20,19,Geladeira Inverse Brastemp,624.62,https://placekitten.com/603/713,Havan,10,16
+2024-03-25,19,Geladeira Inverse Brastemp,375.4,https://placekitten.com/550/424,Havan,10,8
+2024-04-01,19,Geladeira Inverse Brastemp,643.9,https://placeimg.com/808/116/any,Shoptime,19,11
+2024-04-16,19,Geladeira Inverse Brastemp,593.23,https://dummyimage.com/661x763,Submarino,20,14
+2024-04-21,20,Fogão 4 Bocas Electrolux,206.26,https://placeimg.com/952/811/any,Amazon,1,13
+2024-05-10,20,Fogão 4 Bocas Electrolux,287.25,https://placekitten.com/216/731,Amazon,1,18
+2024-03-03,20,Fogão 4 Bocas Electrolux,367.3,https://dummyimage.com/880x354,Carrefour,4,12
+2024-03-05,20,Fogão 4 Bocas Electrolux,289.58,https://placeimg.com/551/996/any,Casas Bahia,5,1
+2024-03-19,20,Fogão 4 Bocas Electrolux,331.66,https://placeimg.com/531/129/any,Extra,7,4
+2024-05-02,20,Fogão 4 Bocas Electrolux,271.13,https://dummyimage.com/475x335,Havan,10,5
+2024-05-26,20,Fogão 4 Bocas Electrolux,260.01,https://placekitten.com/461/324,Havan,10,19
+2024-03-11,20,Fogão 4 Bocas Electrolux,261.27,https://dummyimage.com/763x237,Havan,10,5
+2024-04-26,20,Fogão 4 Bocas Electrolux,370.46,https://placeimg.com/538/786/any,Havan,10,15
+2024-05-30,20,Fogão 4 Bocas Electrolux,225.67,https://placeimg.com/101/936/any,Havan,10,13
+2024-05-02,20,Fogão 4 Bocas Electrolux,250.96,https://placekitten.com/613/690,Kalunga,11,11
+2024-05-08,20,Fogão 4 Bocas Electrolux,308.82,https://www.lorempixel.com/639/259,Netshoes,15,17
+2024-05-30,20,Fogão 4 Bocas Electrolux,355.1,https://dummyimage.com/406x839,Ponto Frio,16,7
+2024-04-12,20,Fogão 4 Bocas Electrolux,206.02,https://placekitten.com/855/1002,Ponto Frio,16,11
+2024-03-27,20,Fogão 4 Bocas Electrolux,245.56,https://www.lorempixel.com/605/243,Ricardo Eletro,17,19
+2024-03-31,20,Fogão 4 Bocas Electrolux,272.47,https://placeimg.com/1017/684/any,Saraiva,18,14
+2024-05-28,21,Ar Condicionado Split LG,1096.47,https://www.lorempixel.com/901/157,C&A,3,18
+2024-03-29,21,Ar Condicionado Split LG,969.81,https://placekitten.com/714/491,C&A,3,1
+2024-03-12,21,Ar Condicionado Split LG,892.99,https://www.lorempixel.com/235/334,C&A,3,1
+2024-05-23,21,Ar Condicionado Split LG,1040.25,https://placekitten.com/499/387,Carrefour,4,2
+2024-05-08,21,Ar Condicionado Split LG,1072.67,https://placekitten.com/477/160,Carrefour,4,8
+2024-05-28,21,Ar Condicionado Split LG,687.53,https://www.lorempixel.com/914/124,Carrefour,4,1
+2024-03-11,21,Ar Condicionado Split LG,729.51,https://www.lorempixel.com/364/628,Carrefour,4,7
+2024-05-12,21,Ar Condicionado Split LG,878.06,https://placekitten.com/636/4,Carrefour,4,1
+2024-05-10,21,Ar Condicionado Split LG,889.75,https://placeimg.com/133/995/any,Centauro,6,4
+2024-05-06,21,Ar Condicionado Split LG,1058.15,https://www.lorempixel.com/498/893,Centauro,6,6
+2024-03-21,21,Ar Condicionado Split LG,743.34,https://www.lorempixel.com/741/682,Centauro,6,20
+2024-05-05,21,Ar Condicionado Split LG,1058.82,https://placeimg.com/788/935/any,Centauro,6,7
+2024-05-12,21,Ar Condicionado Split LG,1130.37,https://placekitten.com/924/441,Centauro,6,11
+2024-05-29,21,Ar Condicionado Split LG,948.29,https://dummyimage.com/989x60,Extra,7,7
+2024-05-16,21,Ar Condicionado Split LG,946.73,https://placeimg.com/830/369/any,Extra,7,4
+2024-05-24,21,Ar Condicionado Split LG,768.77,https://dummyimage.com/768x316,Fnac,9,15
+2024-04-14,21,Ar Condicionado Split LG,1175.44,https://placekitten.com/312/259,Fnac,9,12
+2024-04-18,21,Ar Condicionado Split LG,749.5,https://placeimg.com/604/587/any,Kalunga,11,13
+2024-05-17,21,Ar Condicionado Split LG,821.2,https://placeimg.com/977/691/any,Lojas Renner,13,11
+2024-04-19,21,Ar Condicionado Split LG,1200.37,https://placekitten.com/80/297,Lojas Renner,13,3
+2024-04-05,21,Ar Condicionado Split LG,1185.75,https://dummyimage.com/271x328,Magazine Luiza,14,1
+2024-05-02,21,Ar Condicionado Split LG,666.45,https://dummyimage.com/349x910,Ponto Frio,16,11
+2024-05-08,21,Ar Condicionado Split LG,1087.07,https://placeimg.com/421/473/any,Ricardo Eletro,17,5
+2024-04-09,21,Ar Condicionado Split LG,765.9,https://placeimg.com/69/348/any,Ricardo Eletro,17,19
+2024-04-30,21,Ar Condicionado Split LG,970.93,https://dummyimage.com/638x943,Saraiva,18,7
+2024-05-03,21,Ar Condicionado Split LG,1201.25,https://placeimg.com/993/661/any,Shoptime,19,11
+2024-05-27,21,Ar Condicionado Split LG,726.38,https://dummyimage.com/866x637,Shoptime,19,15
+2024-03-10,21,Ar Condicionado Split LG,1105.8,https://dummyimage.com/712x783,Shoptime,19,10
+2024-04-07,21,Ar Condicionado Split LG,823.14,https://placekitten.com/917/270,Shoptime,19,17
+2024-04-16,21,Ar Condicionado Split LG,734.31,https://dummyimage.com/391x266,Shoptime,19,1
+2024-04-03,21,Ar Condicionado Split LG,987.4,https://placekitten.com/196/942,Submarino,20,13
+2024-03-06,22,Micro-ondas Panasonic,725.13,https://placekitten.com/976/335,Amazon,1,16
+2024-03-21,22,Micro-ondas Panasonic,541.66,https://dummyimage.com/162x169,C&A,3,11
+2024-03-23,22,Micro-ondas Panasonic,690.64,https://www.lorempixel.com/14/453,Casas Bahia,5,4
+2024-04-24,22,Micro-ondas Panasonic,805.82,https://dummyimage.com/136x153,Casas Bahia,5,1
+2024-03-18,22,Micro-ondas Panasonic,821.87,https://www.lorempixel.com/52/624,Fnac,9,10
+2024-04-24,22,Micro-ondas Panasonic,799.68,https://dummyimage.com/739x573,Kalunga,11,18
+2024-04-12,22,Micro-ondas Panasonic,542.05,https://placeimg.com/324/712/any,Kalunga,11,18
+2024-04-06,22,Micro-ondas Panasonic,839.75,https://www.lorempixel.com/370/838,Magazine Luiza,14,9
+2024-05-23,22,Micro-ondas Panasonic,499.46,https://www.lorempixel.com/933/925,Ponto Frio,16,16
+2024-05-27,22,Micro-ondas Panasonic,489.07,https://placeimg.com/785/294/any,Ponto Frio,16,13
+2024-04-21,22,Micro-ondas Panasonic,839.34,https://placekitten.com/331/549,Saraiva,18,9
+2024-04-18,22,Micro-ondas Panasonic,595.22,https://placeimg.com/241/15/any,Saraiva,18,14
+2024-03-11,22,Micro-ondas Panasonic,557.2,https://dummyimage.com/369x969,Shoptime,19,4
+2024-03-15,22,Micro-ondas Panasonic,869.06,https://placekitten.com/541/532,Submarino,20,18
+2024-05-19,23,Ventilador de Mesa Arno,61.42,https://dummyimage.com/411x168,Amazon,1,6
+2024-03-20,23,Ventilador de Mesa Arno,70.6,https://placekitten.com/275/333,Americanas,2,12
+2024-05-24,23,Ventilador de Mesa Arno,79.84,https://placeimg.com/56/380/any,Americanas,2,19
+2024-05-04,23,Ventilador de Mesa Arno,53.13,https://dummyimage.com/563x934,Casas Bahia,5,20
+2024-03-24,23,Ventilador de Mesa Arno,69.74,https://www.lorempixel.com/329/262,Casas Bahia,5,18
+2024-05-01,23,Ventilador de Mesa Arno,53.69,https://placekitten.com/298/863,Centauro,6,7
+2024-03-19,23,Ventilador de Mesa Arno,65.06,https://placekitten.com/762/435,Fast Shop,8,18
+2024-04-08,23,Ventilador de Mesa Arno,59.83,https://www.lorempixel.com/675/644,Fnac,9,19
+2024-04-12,23,Ventilador de Mesa Arno,52.16,https://dummyimage.com/428x604,Netshoes,15,6
+2024-05-09,23,Ventilador de Mesa Arno,72.1,https://www.lorempixel.com/715/859,Ricardo Eletro,17,15
+2024-03-27,23,Ventilador de Mesa Arno,73.9,https://placekitten.com/144/412,Shoptime,19,13
+2024-04-19,23,Ventilador de Mesa Arno,84.81,https://placekitten.com/299/839,Submarino,20,2
+2024-03-14,24,Liquidificador Philips Walita,777.03,https://dummyimage.com/770x303,Amazon,1,1
+2024-03-17,24,Liquidificador Philips Walita,509.86,https://www.lorempixel.com/793/455,Americanas,2,5
+2024-05-11,24,Liquidificador Philips Walita,606.82,https://placeimg.com/121/318/any,C&A,3,20
+2024-05-25,24,Liquidificador Philips Walita,549.96,https://placeimg.com/232/491/any,C&A,3,15
+2024-05-09,24,Liquidificador Philips Walita,460.07,https://www.lorempixel.com/742/129,Carrefour,4,2
+2024-03-26,24,Liquidificador Philips Walita,571.72,https://www.lorempixel.com/500/475,Centauro,6,5
+2024-05-03,24,Liquidificador Philips Walita,699.71,https://dummyimage.com/940x644,Livraria Cultura,12,10
+2024-05-06,24,Liquidificador Philips Walita,769.43,https://dummyimage.com/851x306,Livraria Cultura,12,6
+2024-05-06,24,Liquidificador Philips Walita,473.93,https://www.lorempixel.com/705/283,Livraria Cultura,12,5
+2024-03-15,24,Liquidificador Philips Walita,477.12,https://dummyimage.com/784x748,Lojas Renner,13,2
+2024-03-02,24,Liquidificador Philips Walita,421.65,https://placeimg.com/1012/609/any,Lojas Renner,13,8
+2024-05-16,24,Liquidificador Philips Walita,493.15,https://placekitten.com/338/684,Netshoes,15,1
+2024-04-29,24,Liquidificador Philips Walita,731.26,https://placeimg.com/34/716/any,Ponto Frio,16,5
+2024-04-15,24,Liquidificador Philips Walita,639.41,https://dummyimage.com/936x420,Ricardo Eletro,17,19
+2024-03-08,24,Liquidificador Philips Walita,460.07,https://dummyimage.com/108x95,Submarino,20,9
+2024-05-30,24,Liquidificador Philips Walita,651.36,https://www.lorempixel.com/551/194,Submarino,20,6
+2024-05-19,24,Liquidificador Philips Walita,465.3,https://placeimg.com/274/637/any,Submarino,20,17
+2024-05-02,25,Panela de Pressão Elétrica Mondial,42.07,https://www.lorempixel.com/376/161,Amazon,1,9
+2024-05-06,25,Panela de Pressão Elétrica Mondial,44.81,https://www.lorempixel.com/237/210,C&A,3,3
+2024-04-10,25,Panela de Pressão Elétrica Mondial,31.37,https://placekitten.com/425/778,C&A,3,18
+2024-05-21,25,Panela de Pressão Elétrica Mondial,26.98,https://placeimg.com/819/930/any,Casas Bahia,5,11
+2024-05-12,25,Panela de Pressão Elétrica Mondial,37.9,https://placeimg.com/938/254/any,Fast Shop,8,19
+2024-05-23,25,Panela de Pressão Elétrica Mondial,44.76,https://www.lorempixel.com/810/934,Fast Shop,8,17
+2024-03-06,25,Panela de Pressão Elétrica Mondial,33.6,https://placeimg.com/22/756/any,Fnac,9,4
+2024-04-22,25,Panela de Pressão Elétrica Mondial,45.26,https://dummyimage.com/359x158,Havan,10,5
+2024-04-05,25,Panela de Pressão Elétrica Mondial,33.02,https://placeimg.com/860/883/any,Kalunga,11,8
+2024-03-04,25,Panela de Pressão Elétrica Mondial,30.52,https://placeimg.com/20/539/any,Kalunga,11,17
+2024-04-09,25,Panela de Pressão Elétrica Mondial,44.2,https://placeimg.com/1013/864/any,Lojas Renner,13,3
+2024-03-06,25,Panela de Pressão Elétrica Mondial,25.15,https://dummyimage.com/797x912,Saraiva,18,6
+2024-04-23,25,Panela de Pressão Elétrica Mondial,25.98,https://placekitten.com/445/348,Saraiva,18,14
+2024-05-06,25,Panela de Pressão Elétrica Mondial,40.0,https://dummyimage.com/544x442,Saraiva,18,2
+2024-05-24,25,Panela de Pressão Elétrica Mondial,27.24,https://www.lorempixel.com/841/884,Shoptime,19,16
+2024-04-28,25,Panela de Pressão Elétrica Mondial,31.56,https://www.lorempixel.com/287/421,Shoptime,19,18
+2024-04-01,25,Panela de Pressão Elétrica Mondial,29.48,https://www.lorempixel.com/217/468,Submarino,20,17
+2024-03-22,25,Panela de Pressão Elétrica Mondial,39.2,https://placekitten.com/24/140,Submarino,20,19
+2024-05-08,26,Máquina de Costura Singer,319.38,https://placekitten.com/862/539,Amazon,1,5
+2024-05-23,26,Máquina de Costura Singer,321.01,https://dummyimage.com/892x663,Americanas,2,6
+2024-03-14,26,Máquina de Costura Singer,477.05,https://placeimg.com/42/872/any,Centauro,6,7
+2024-05-21,26,Máquina de Costura Singer,489.28,https://placeimg.com/967/307/any,Centauro,6,12
+2024-04-25,26,Máquina de Costura Singer,506.72,https://placeimg.com/982/570/any,Extra,7,19
+2024-04-25,26,Máquina de Costura Singer,433.46,https://placekitten.com/809/595,Fast Shop,8,18
+2024-05-06,26,Máquina de Costura Singer,535.51,https://placeimg.com/5/876/any,Fast Shop,8,6
+2024-03-29,26,Máquina de Costura Singer,389.87,https://www.lorempixel.com/525/805,Fnac,9,20
+2024-05-06,26,Máquina de Costura Singer,346.79,https://dummyimage.com/164x82,Fnac,9,2
+2024-03-25,26,Máquina de Costura Singer,463.4,https://www.lorempixel.com/760/657,Fnac,9,2
+2024-04-14,26,Máquina de Costura Singer,423.23,https://www.lorempixel.com/284/566,Havan,10,12
+2024-04-22,26,Máquina de Costura Singer,333.12,https://www.lorempixel.com/33/864,Kalunga,11,17
+2024-05-11,26,Máquina de Costura Singer,533.86,https://placekitten.com/650/925,Lojas Renner,13,13
+2024-03-12,26,Máquina de Costura Singer,344.31,https://placekitten.com/758/213,Lojas Renner,13,2
+2024-05-23,26,Máquina de Costura Singer,352.21,https://www.lorempixel.com/366/359,Magazine Luiza,14,19
+2024-04-24,26,Máquina de Costura Singer,445.73,https://placekitten.com/848/304,Ricardo Eletro,17,9
+2024-03-17,27,Drone DJI Phantom,121.05,https://placekitten.com/743/922,Amazon,1,15
+2024-04-24,27,Drone DJI Phantom,142.4,https://dummyimage.com/844x997,Americanas,2,1
+2024-05-14,27,Drone DJI Phantom,146.15,https://placekitten.com/463/12,Americanas,2,19
+2024-04-01,27,Drone DJI Phantom,165.11,https://www.lorempixel.com/603/888,C&A,3,12
+2024-04-04,27,Drone DJI Phantom,173.55,https://www.lorempixel.com/433/275,C&A,3,12
+2024-04-27,27,Drone DJI Phantom,190.69,https://dummyimage.com/264x848,C&A,3,20
+2024-03-27,27,Drone DJI Phantom,146.85,https://dummyimage.com/971x224,Carrefour,4,8
+2024-03-10,27,Drone DJI Phantom,143.59,https://dummyimage.com/210x861,Carrefour,4,18
+2024-04-05,27,Drone DJI Phantom,124.64,https://dummyimage.com/242x572,Casas Bahia,5,2
+2024-04-20,27,Drone DJI Phantom,137.64,https://placekitten.com/470/1005,Centauro,6,18
+2024-05-05,27,Drone DJI Phantom,181.71,https://placekitten.com/726/67,Centauro,6,13
+2024-03-04,27,Drone DJI Phantom,113.5,https://dummyimage.com/685x699,Extra,7,16
+2024-04-28,27,Drone DJI Phantom,151.1,https://placeimg.com/106/624/any,Kalunga,11,4
+2024-05-15,27,Drone DJI Phantom,173.49,https://dummyimage.com/698x700,Kalunga,11,11
+2024-04-15,27,Drone DJI Phantom,178.95,https://placekitten.com/854/254,Livraria Cultura,12,2
+2024-04-05,27,Drone DJI Phantom,188.26,https://dummyimage.com/22x339,Livraria Cultura,12,2
+2024-05-26,27,Drone DJI Phantom,164.67,https://placeimg.com/925/20/any,Ricardo Eletro,17,12
+2024-04-01,27,Drone DJI Phantom,179.11,https://placekitten.com/644/998,Saraiva,18,14
+2024-04-15,27,Drone DJI Phantom,153.37,https://dummyimage.com/89x43,Saraiva,18,9
+2024-04-04,27,Drone DJI Phantom,127.07,https://placekitten.com/801/373,Saraiva,18,8
+2024-05-22,28,Projetor Epson,1039.48,https://placekitten.com/59/869,Amazon,1,7
+2024-04-22,28,Projetor Epson,817.8,https://www.lorempixel.com/679/80,Americanas,2,16
+2024-05-19,28,Projetor Epson,910.28,https://www.lorempixel.com/777/125,Americanas,2,13
+2024-04-20,28,Projetor Epson,806.15,https://www.lorempixel.com/950/399,Americanas,2,3
+2024-03-23,28,Projetor Epson,699.73,https://www.lorempixel.com/124/737,Carrefour,4,13
+2024-04-02,28,Projetor Epson,720.87,https://placeimg.com/709/234/any,Casas Bahia,5,16
+2024-03-18,28,Projetor Epson,1082.33,https://www.lorempixel.com/699/959,Centauro,6,12
+2024-05-10,28,Projetor Epson,763.5,https://placeimg.com/540/185/any,Extra,7,10
+2024-03-22,28,Projetor Epson,1085.34,https://dummyimage.com/925x32,Fast Shop,8,15
+2024-05-18,28,Projetor Epson,855.97,https://dummyimage.com/884x197,Fnac,9,7
+2024-03-09,28,Projetor Epson,1161.58,https://dummyimage.com/330x982,Kalunga,11,11
+2024-04-18,28,Projetor Epson,1137.49,https://placeimg.com/36/517/any,Livraria Cultura,12,13
+2024-03-23,28,Projetor Epson,1026.04,https://www.lorempixel.com/937/982,Livraria Cultura,12,14
+2024-04-06,28,Projetor Epson,1020.46,https://placekitten.com/753/196,Ricardo Eletro,17,16
+2024-04-20,28,Projetor Epson,1171.28,https://placeimg.com/796/580/any,Ricardo Eletro,17,4
+2024-03-12,28,Projetor Epson,1249.64,https://dummyimage.com/169x644,Submarino,20,6
+2024-03-21,29,Caixa de Som Bluetooth Bose,1007.42,https://placeimg.com/299/404/any,Amazon,1,6
+2024-05-11,29,Caixa de Som Bluetooth Bose,734.22,https://www.lorempixel.com/498/215,Amazon,1,10
+2024-04-22,29,Caixa de Som Bluetooth Bose,727.67,https://placeimg.com/705/357/any,Carrefour,4,16
+2024-03-15,29,Caixa de Som Bluetooth Bose,948.15,https://www.lorempixel.com/930/478,Carrefour,4,11
+2024-04-16,29,Caixa de Som Bluetooth Bose,953.27,https://www.lorempixel.com/823/114,Casas Bahia,5,5
+2024-05-26,29,Caixa de Som Bluetooth Bose,806.57,https://placekitten.com/364/841,Casas Bahia,5,19
+2024-05-11,29,Caixa de Som Bluetooth Bose,744.7,https://placekitten.com/969/212,Centauro,6,20
+2024-04-28,29,Caixa de Som Bluetooth Bose,857.85,https://placeimg.com/486/677/any,Centauro,6,2
+2024-03-31,29,Caixa de Som Bluetooth Bose,623.47,https://dummyimage.com/8x322,Extra,7,9
+2024-04-15,29,Caixa de Som Bluetooth Bose,754.73,https://placeimg.com/459/501/any,Fast Shop,8,5
+2024-03-28,29,Caixa de Som Bluetooth Bose,676.3,https://placekitten.com/696/700,Fnac,9,20
+2024-05-14,29,Caixa de Som Bluetooth Bose,970.94,https://dummyimage.com/743x598,Fnac,9,14
+2024-04-19,29,Caixa de Som Bluetooth Bose,701.4,https://placeimg.com/30/916/any,Havan,10,7
+2024-05-01,29,Caixa de Som Bluetooth Bose,812.01,https://dummyimage.com/563x695,Kalunga,11,7
+2024-04-18,29,Caixa de Som Bluetooth Bose,967.54,https://placeimg.com/199/331/any,Lojas Renner,13,16
+2024-03-21,29,Caixa de Som Bluetooth Bose,813.63,https://placeimg.com/947/811/any,Lojas Renner,13,18
+2024-05-02,29,Caixa de Som Bluetooth Bose,834.43,https://placekitten.com/1019/933,Netshoes,15,19
+2024-04-27,29,Caixa de Som Bluetooth Bose,808.74,https://placeimg.com/690/553/any,Netshoes,15,10
+2024-05-13,29,Caixa de Som Bluetooth Bose,750.7,https://dummyimage.com/959x822,Ponto Frio,16,18
+2024-05-27,29,Caixa de Som Bluetooth Bose,770.78,https://www.lorempixel.com/264/886,Ricardo Eletro,17,15
+2024-05-02,29,Caixa de Som Bluetooth Bose,594.54,https://dummyimage.com/771x577,Ricardo Eletro,17,5
+2024-04-04,29,Caixa de Som Bluetooth Bose,932.91,https://placeimg.com/556/111/any,Ricardo Eletro,17,18
+2024-03-07,29,Caixa de Som Bluetooth Bose,981.51,https://dummyimage.com/710x960,Shoptime,19,12
+2024-03-23,29,Caixa de Som Bluetooth Bose,566.65,https://placeimg.com/244/232/any,Submarino,20,1
+2024-03-03,30,Carregador Portátil Anker,1100.41,https://placeimg.com/367/766/any,Amazon,1,14
+2024-05-07,30,Carregador Portátil Anker,1128.28,https://www.lorempixel.com/423/196,Americanas,2,12
+2024-04-05,30,Carregador Portátil Anker,648.92,https://dummyimage.com/238x924,Carrefour,4,4
+2024-03-25,30,Carregador Portátil Anker,681.11,https://placeimg.com/40/310/any,Carrefour,4,6
+2024-03-07,30,Carregador Portátil Anker,997.76,https://placekitten.com/297/334,Carrefour,4,14
+2024-03-24,30,Carregador Portátil Anker,1105.16,https://dummyimage.com/839x103,Centauro,6,6
+2024-03-23,30,Carregador Portátil Anker,1116.69,https://placeimg.com/1000/426/any,Extra,7,4
+2024-05-19,30,Carregador Portátil Anker,726.53,https://placeimg.com/817/1003/any,Kalunga,11,13
+2024-05-21,30,Carregador Portátil Anker,1051.56,https://placekitten.com/107/857,Kalunga,11,6
+2024-03-27,30,Carregador Portátil Anker,770.91,https://dummyimage.com/249x593,Kalunga,11,7
+2024-04-04,30,Carregador Portátil Anker,1162.48,https://placeimg.com/851/401/any,Magazine Luiza,14,3
+2024-03-27,30,Carregador Portátil Anker,698.96,https://dummyimage.com/126x495,Netshoes,15,18
+2024-05-27,30,Carregador Portátil Anker,1082.01,https://placeimg.com/956/365/any,Netshoes,15,16
+2024-03-10,30,Carregador Portátil Anker,955.07,https://placekitten.com/997/481,Netshoes,15,11
+2024-04-01,30,Carregador Portátil Anker,941.63,https://www.lorempixel.com/518/218,Ponto Frio,16,14
+2024-04-16,30,Carregador Portátil Anker,922.46,https://placeimg.com/801/479/any,Ricardo Eletro,17,5
+2024-05-14,30,Carregador Portátil Anker,880.58,https://placekitten.com/734/371,Submarino,20,13
+2024-04-12,31,Smartwatch Xiaomi,69.7,https://dummyimage.com/808x576,Amazon,1,3
+2024-03-21,31,Smartwatch Xiaomi,113.54,https://dummyimage.com/581x441,Americanas,2,13
+2024-05-24,31,Smartwatch Xiaomi,112.0,https://placekitten.com/173/245,Centauro,6,6
+2024-04-24,31,Smartwatch Xiaomi,118.73,https://placekitten.com/671/750,Centauro,6,3
+2024-03-18,31,Smartwatch Xiaomi,119.05,https://dummyimage.com/831x827,Centauro,6,16
+2024-05-28,31,Smartwatch Xiaomi,109.84,https://dummyimage.com/234x1021,Fast Shop,8,5
+2024-03-12,31,Smartwatch Xiaomi,114.16,https://placeimg.com/731/991/any,Fast Shop,8,15
+2024-05-08,31,Smartwatch Xiaomi,100.86,https://dummyimage.com/195x171,Fnac,9,2
+2024-05-02,31,Smartwatch Xiaomi,115.05,https://www.lorempixel.com/316/466,Fnac,9,4
+2024-04-13,31,Smartwatch Xiaomi,95.98,https://placeimg.com/112/632/any,Magazine Luiza,14,17
+2024-04-17,31,Smartwatch Xiaomi,108.03,https://dummyimage.com/573x656,Magazine Luiza,14,13
+2024-03-04,31,Smartwatch Xiaomi,120.2,https://placeimg.com/733/501/any,Ponto Frio,16,7
+2024-03-02,31,Smartwatch Xiaomi,111.02,https://dummyimage.com/685x705,Shoptime,19,5
+2024-04-28,31,Smartwatch Xiaomi,113.95,https://www.lorempixel.com/222/729,Submarino,20,10
+2024-05-13,32,Roteador TP-Link,555.07,https://dummyimage.com/696x734,C&A,3,5
+2024-04-03,32,Roteador TP-Link,673.92,https://placeimg.com/897/602/any,C&A,3,13
+2024-03-20,32,Roteador TP-Link,590.65,https://placekitten.com/367/58,Casas Bahia,5,3
+2024-03-26,32,Roteador TP-Link,585.81,https://placeimg.com/480/902/any,Fast Shop,8,20
+2024-03-09,32,Roteador TP-Link,527.35,https://dummyimage.com/343x895,Fnac,9,20
+2024-04-01,32,Roteador TP-Link,669.57,https://placeimg.com/258/1009/any,Livraria Cultura,12,16
+2024-03-01,32,Roteador TP-Link,444.92,https://www.lorempixel.com/858/461,Ponto Frio,16,3
+2024-05-26,32,Roteador TP-Link,538.33,https://placeimg.com/582/922/any,Ricardo Eletro,17,16
+2024-04-30,32,Roteador TP-Link,663.55,https://www.lorempixel.com/471/733,Saraiva,18,16
+2024-04-16,32,Roteador TP-Link,540.12,https://placeimg.com/352/771/any,Submarino,20,4
+2024-03-19,32,Roteador TP-Link,530.29,https://dummyimage.com/441x617,Submarino,20,12
+2024-05-09,33,Purificador de Água Consul,411.1,https://www.lorempixel.com/194/647,C&A,3,14
+2024-04-06,33,Purificador de Água Consul,709.08,https://placeimg.com/561/669/any,C&A,3,1
+2024-05-24,33,Purificador de Água Consul,569.3,https://www.lorempixel.com/302/952,Centauro,6,7
+2024-04-01,33,Purificador de Água Consul,676.74,https://dummyimage.com/894x611,Extra,7,8
+2024-03-22,33,Purificador de Água Consul,442.11,https://placeimg.com/881/771/any,Fnac,9,3
+2024-04-27,33,Purificador de Água Consul,671.55,https://dummyimage.com/519x738,Havan,10,18
+2024-05-23,33,Purificador de Água Consul,585.75,https://www.lorempixel.com/768/984,Havan,10,14
+2024-03-25,33,Purificador de Água Consul,660.47,https://placekitten.com/807/614,Shoptime,19,7
+2024-05-12,34,Cafeteira Elétrica Cadence,683.53,https://placekitten.com/847/730,Amazon,1,14
+2024-03-13,34,Cafeteira Elétrica Cadence,641.22,https://placekitten.com/467/828,Amazon,1,20
+2024-03-13,34,Cafeteira Elétrica Cadence,552.33,https://placeimg.com/204/397/any,Amazon,1,11
+2024-03-31,34,Cafeteira Elétrica Cadence,459.29,https://dummyimage.com/192x672,Carrefour,4,14
+2024-05-23,34,Cafeteira Elétrica Cadence,819.28,https://placekitten.com/245/891,Carrefour,4,13
+2024-04-21,34,Cafeteira Elétrica Cadence,502.63,https://www.lorempixel.com/997/101,Extra,7,12
+2024-04-05,34,Cafeteira Elétrica Cadence,623.26,https://www.lorempixel.com/253/514,Extra,7,19
+2024-04-16,34,Cafeteira Elétrica Cadence,516.11,https://www.lorempixel.com/400/351,Havan,10,18
+2024-04-27,34,Cafeteira Elétrica Cadence,625.58,https://dummyimage.com/477x463,Lojas Renner,13,5
+2024-03-25,34,Cafeteira Elétrica Cadence,486.12,https://placeimg.com/145/704/any,Netshoes,15,15
+2024-04-28,34,Cafeteira Elétrica Cadence,560.05,https://placekitten.com/857/757,Ponto Frio,16,16
+2024-05-22,34,Cafeteira Elétrica Cadence,602.8,https://placeimg.com/551/206/any,Ricardo Eletro,17,19
+2024-04-08,34,Cafeteira Elétrica Cadence,806.02,https://www.lorempixel.com/706/784,Shoptime,19,20
+2024-05-23,34,Cafeteira Elétrica Cadence,533.69,https://placeimg.com/119/788/any,Submarino,20,5
+2024-05-22,35,Grill Elétrico George Foreman,1119.52,https://placeimg.com/829/893/any,Amazon,1,1
+2024-04-27,35,Grill Elétrico George Foreman,681.31,https://www.lorempixel.com/135/18,Carrefour,4,6
+2024-05-09,35,Grill Elétrico George Foreman,689.9,https://dummyimage.com/638x213,Casas Bahia,5,10
+2024-05-05,35,Grill Elétrico George Foreman,1063.36,https://placekitten.com/446/21,Casas Bahia,5,14
+2024-05-30,35,Grill Elétrico George Foreman,918.63,https://www.lorempixel.com/70/790,Havan,10,12
+2024-04-14,35,Grill Elétrico George Foreman,780.82,https://www.lorempixel.com/305/720,Livraria Cultura,12,3
+2024-03-05,35,Grill Elétrico George Foreman,745.25,https://placekitten.com/890/200,Livraria Cultura,12,1
+2024-04-12,35,Grill Elétrico George Foreman,1149.74,https://www.lorempixel.com/618/297,Lojas Renner,13,2
+2024-03-01,35,Grill Elétrico George Foreman,837.05,https://placeimg.com/18/411/any,Lojas Renner,13,16
+2024-03-12,35,Grill Elétrico George Foreman,922.42,https://placeimg.com/1003/901/any,Ponto Frio,16,16
+2024-05-16,35,Grill Elétrico George Foreman,773.18,https://placekitten.com/906/779,Ponto Frio,16,14
+2024-03-07,35,Grill Elétrico George Foreman,1106.63,https://placeimg.com/634/767/any,Ricardo Eletro,17,13
+2024-03-20,35,Grill Elétrico George Foreman,1080.56,https://www.lorempixel.com/540/745,Saraiva,18,13
+2024-03-25,36,Home Theater Sony,17.63,https://dummyimage.com/441x474,Amazon,1,17
+2024-05-30,36,Home Theater Sony,11.34,https://placekitten.com/258/907,Amazon,1,19
+2024-05-26,36,Home Theater Sony,17.92,https://dummyimage.com/968x305,C&A,3,2
+2024-05-26,36,Home Theater Sony,12.66,https://placekitten.com/734/522,Carrefour,4,15
+2024-03-06,36,Home Theater Sony,15.94,https://placekitten.com/129/795,Casas Bahia,5,18
+2024-05-02,36,Home Theater Sony,17.93,https://www.lorempixel.com/449/871,Centauro,6,19
+2024-05-08,36,Home Theater Sony,11.75,https://www.lorempixel.com/172/500,Extra,7,13
+2024-04-15,36,Home Theater Sony,17.28,https://placekitten.com/351/570,Extra,7,15
+2024-04-03,36,Home Theater Sony,13.88,https://placeimg.com/877/105/any,Fnac,9,4
+2024-03-23,36,Home Theater Sony,16.5,https://dummyimage.com/570x757,Havan,10,12
+2024-04-04,36,Home Theater Sony,14.84,https://placeimg.com/1014/846/any,Havan,10,18
+2024-04-25,36,Home Theater Sony,18.76,https://placekitten.com/292/856,Kalunga,11,6
+2024-04-23,36,Home Theater Sony,16.71,https://www.lorempixel.com/944/162,Kalunga,11,3
+2024-05-17,36,Home Theater Sony,17.08,https://dummyimage.com/296x629,Kalunga,11,17
+2024-04-25,36,Home Theater Sony,11.78,https://placekitten.com/146/896,Lojas Renner,13,16
+2024-04-10,36,Home Theater Sony,15.94,https://www.lorempixel.com/40/52,Magazine Luiza,14,4
+2024-03-25,36,Home Theater Sony,17.05,https://dummyimage.com/247x196,Netshoes,15,5
+2024-04-23,36,Home Theater Sony,18.48,https://www.lorempixel.com/538/372,Netshoes,15,14
+2024-04-29,36,Home Theater Sony,15.24,https://www.lorempixel.com/303/703,Ricardo Eletro,17,12
+2024-03-09,36,Home Theater Sony,12.43,https://dummyimage.com/477x241,Shoptime,19,16
+2024-05-21,36,Home Theater Sony,17.08,https://dummyimage.com/286x156,Shoptime,19,7
+2024-04-16,36,Home Theater Sony,12.87,https://dummyimage.com/195x115,Submarino,20,5
+2024-05-20,36,Home Theater Sony,15.51,https://placekitten.com/636/693,Submarino,20,11
+2024-04-18,36,Home Theater Sony,11.13,https://placekitten.com/34/283,Submarino,20,18
+2024-05-05,36,Home Theater Sony,11.31,https://placeimg.com/260/223/any,Submarino,20,9
+2024-04-16,36,Home Theater Sony,14.43,https://www.lorempixel.com/67/706,Submarino,20,17
+2024-04-06,37,Câmera de Segurança Intelbras,952.12,https://www.lorempixel.com/23/496,Carrefour,4,6
+2024-04-07,37,Câmera de Segurança Intelbras,742.26,https://placeimg.com/326/788/any,Carrefour,4,13
+2024-03-24,37,Câmera de Segurança Intelbras,705.69,https://www.lorempixel.com/996/113,Casas Bahia,5,4
+2024-04-29,37,Câmera de Segurança Intelbras,730.23,https://dummyimage.com/759x798,Extra,7,2
+2024-05-11,37,Câmera de Segurança Intelbras,795.07,https://placekitten.com/106/728,Fnac,9,8
+2024-03-20,37,Câmera de Segurança Intelbras,806.62,https://www.lorempixel.com/776/956,Havan,10,10
+2024-03-25,37,Câmera de Segurança Intelbras,715.07,https://placeimg.com/916/554/any,Havan,10,11
+2024-03-20,37,Câmera de Segurança Intelbras,972.85,https://placeimg.com/77/304/any,Lojas Renner,13,11
+2024-03-02,37,Câmera de Segurança Intelbras,758.93,https://placeimg.com/138/189/any,Lojas Renner,13,8
+2024-04-22,37,Câmera de Segurança Intelbras,975.36,https://placekitten.com/943/826,Magazine Luiza,14,19
+2024-05-10,37,Câmera de Segurança Intelbras,997.56,https://placeimg.com/748/918/any,Ponto Frio,16,11
+2024-03-12,37,Câmera de Segurança Intelbras,974.88,https://placeimg.com/53/835/any,Ponto Frio,16,9
+2024-05-13,37,Câmera de Segurança Intelbras,864.79,https://www.lorempixel.com/453/447,Saraiva,18,10
+2024-03-10,37,Câmera de Segurança Intelbras,932.0,https://placeimg.com/32/771/any,Saraiva,18,15
+2024-05-08,37,Câmera de Segurança Intelbras,1010.44,https://dummyimage.com/1005x771,Submarino,20,1
+2024-04-28,38,Escova Secadora Philco,735.99,https://placeimg.com/737/903/any,Americanas,2,3
+2024-05-14,38,Escova Secadora Philco,693.87,https://placekitten.com/221/212,Americanas,2,13
+2024-03-03,38,Escova Secadora Philco,801.38,https://placekitten.com/270/218,C&A,3,2
+2024-04-25,38,Escova Secadora Philco,586.29,https://dummyimage.com/440x885,Carrefour,4,15
+2024-03-09,38,Escova Secadora Philco,672.42,https://www.lorempixel.com/867/123,Extra,7,6
+2024-04-19,38,Escova Secadora Philco,626.9,https://dummyimage.com/990x404,Fnac,9,5
+2024-03-13,38,Escova Secadora Philco,782.89,https://dummyimage.com/870x928,Havan,10,2
+2024-04-15,38,Escova Secadora Philco,587.12,https://placekitten.com/221/697,Havan,10,4
+2024-05-25,38,Escova Secadora Philco,677.25,https://www.lorempixel.com/540/765,Lojas Renner,13,2
+2024-04-15,38,Escova Secadora Philco,483.73,https://www.lorempixel.com/684/952,Magazine Luiza,14,13
+2024-03-27,38,Escova Secadora Philco,728.01,https://placekitten.com/12/414,Magazine Luiza,14,10
+2024-03-28,38,Escova Secadora Philco,445.7,https://dummyimage.com/957x978,Ponto Frio,16,10
+2024-03-28,38,Escova Secadora Philco,629.31,https://dummyimage.com/367x675,Ricardo Eletro,17,11
+2024-03-07,38,Escova Secadora Philco,688.7,https://placekitten.com/196/572,Shoptime,19,18
+2024-04-23,38,Escova Secadora Philco,452.12,https://placekitten.com/254/109,Shoptime,19,5
+2024-05-04,38,Escova Secadora Philco,523.6,https://dummyimage.com/873x1019,Submarino,20,8
+2024-04-07,39,Chaleira Elétrica Oster,40.05,https://www.lorempixel.com/841/942,Havan,10,8
+2024-04-25,39,Chaleira Elétrica Oster,49.82,https://dummyimage.com/862x522,Kalunga,11,10
+2024-03-29,39,Chaleira Elétrica Oster,53.41,https://placeimg.com/443/427/any,Lojas Renner,13,4
+2024-04-09,39,Chaleira Elétrica Oster,56.74,https://placekitten.com/277/747,Magazine Luiza,14,15
+2024-04-24,39,Chaleira Elétrica Oster,55.63,https://placekitten.com/711/144,Magazine Luiza,14,4
+2024-03-04,39,Chaleira Elétrica Oster,40.55,https://dummyimage.com/301x856,Netshoes,15,11
+2024-03-16,39,Chaleira Elétrica Oster,35.95,https://placekitten.com/846/496,Ponto Frio,16,19
+2024-05-05,39,Chaleira Elétrica Oster,37.26,https://www.lorempixel.com/171/534,Ponto Frio,16,9
+2024-05-08,39,Chaleira Elétrica Oster,39.09,https://placekitten.com/804/604,Ponto Frio,16,13
+2024-03-05,39,Chaleira Elétrica Oster,45.14,https://dummyimage.com/1011x249,Ricardo Eletro,17,17
+2024-04-27,39,Chaleira Elétrica Oster,42.29,https://placekitten.com/144/501,Shoptime,19,14
+2024-04-24,39,Chaleira Elétrica Oster,35.0,https://placeimg.com/246/930/any,Shoptime,19,20
+2024-03-25,40,Fritadeira Air Fryer Philips,413.73,https://placeimg.com/257/310/any,Amazon,1,6
+2024-03-02,40,Fritadeira Air Fryer Philips,555.22,https://www.lorempixel.com/509/869,Americanas,2,7
+2024-05-06,40,Fritadeira Air Fryer Philips,310.69,https://placeimg.com/709/806/any,C&A,3,9
+2024-04-29,40,Fritadeira Air Fryer Philips,517.92,https://placekitten.com/14/785,C&A,3,3
+2024-03-10,40,Fritadeira Air Fryer Philips,473.8,https://placeimg.com/509/660/any,Carrefour,4,8
+2024-04-07,40,Fritadeira Air Fryer Philips,446.42,https://www.lorempixel.com/282/460,Casas Bahia,5,14
+2024-04-15,40,Fritadeira Air Fryer Philips,472.07,https://placekitten.com/232/310,Centauro,6,13
+2024-05-27,40,Fritadeira Air Fryer Philips,447.78,https://placeimg.com/924/223/any,Fast Shop,8,9
+2024-05-12,40,Fritadeira Air Fryer Philips,479.23,https://dummyimage.com/868x759,Fast Shop,8,8
+2024-05-20,40,Fritadeira Air Fryer Philips,334.49,https://dummyimage.com/893x420,Kalunga,11,15
+2024-04-25,40,Fritadeira Air Fryer Philips,480.59,https://dummyimage.com/774x840,Kalunga,11,4
+2024-05-07,40,Fritadeira Air Fryer Philips,506.79,https://dummyimage.com/805x391,Magazine Luiza,14,15
+2024-03-19,40,Fritadeira Air Fryer Philips,467.62,https://placeimg.com/558/722/any,Magazine Luiza,14,1
+2024-05-21,41,Aparelho de Pressão Omron,299.02,https://placeimg.com/759/589/any,Amazon,1,6
+2024-05-18,41,Aparelho de Pressão Omron,255.33,https://placeimg.com/705/591/any,Centauro,6,19
+2024-04-24,41,Aparelho de Pressão Omron,418.41,https://dummyimage.com/28x919,Extra,7,8
+2024-05-30,41,Aparelho de Pressão Omron,313.39,https://placekitten.com/637/350,Extra,7,6
+2024-03-04,41,Aparelho de Pressão Omron,432.39,https://www.lorempixel.com/304/710,Fast Shop,8,14
+2024-04-13,41,Aparelho de Pressão Omron,354.49,https://www.lorempixel.com/673/875,Havan,10,11
+2024-05-08,41,Aparelho de Pressão Omron,415.68,https://placekitten.com/676/4,Havan,10,12
+2024-05-07,41,Aparelho de Pressão Omron,305.99,https://placeimg.com/123/936/any,Kalunga,11,6
+2024-03-27,41,Aparelho de Pressão Omron,426.21,https://www.lorempixel.com/976/561,Livraria Cultura,12,5
+2024-05-18,41,Aparelho de Pressão Omron,283.64,https://www.lorempixel.com/938/57,Lojas Renner,13,19
+2024-05-02,41,Aparelho de Pressão Omron,397.1,https://placekitten.com/314/28,Magazine Luiza,14,11
+2024-05-09,41,Aparelho de Pressão Omron,433.12,https://dummyimage.com/245x863,Netshoes,15,7
+2024-04-15,41,Aparelho de Pressão Omron,388.0,https://dummyimage.com/556x917,Shoptime,19,8
+2024-03-06,42,Termômetro Digital G-Tech,111.95,https://placekitten.com/236/32,Amazon,1,6
+2024-04-23,42,Termômetro Digital G-Tech,98.2,https://www.lorempixel.com/928/546,Amazon,1,12
+2024-05-09,42,Termômetro Digital G-Tech,123.31,https://placeimg.com/874/245/any,Americanas,2,1
+2024-03-07,42,Termômetro Digital G-Tech,117.04,https://www.lorempixel.com/808/794,Americanas,2,15
+2024-03-28,42,Termômetro Digital G-Tech,123.05,https://placeimg.com/441/729/any,C&A,3,18
+2024-04-14,42,Termômetro Digital G-Tech,147.27,https://placekitten.com/406/311,Casas Bahia,5,7
+2024-04-26,42,Termômetro Digital G-Tech,121.97,https://dummyimage.com/346x612,Fast Shop,8,2
+2024-04-19,42,Termômetro Digital G-Tech,126.06,https://placekitten.com/928/214,Fast Shop,8,14
+2024-03-26,42,Termômetro Digital G-Tech,105.54,https://www.lorempixel.com/677/479,Havan,10,7
+2024-05-12,42,Termômetro Digital G-Tech,122.72,https://www.lorempixel.com/572/808,Livraria Cultura,12,19
+2024-05-20,42,Termômetro Digital G-Tech,88.63,https://placeimg.com/1005/5/any,Lojas Renner,13,9
+2024-05-20,42,Termômetro Digital G-Tech,136.89,https://placekitten.com/514/22,Magazine Luiza,14,5
+2024-05-26,42,Termômetro Digital G-Tech,104.1,https://www.lorempixel.com/229/451,Magazine Luiza,14,11
+2024-03-27,42,Termômetro Digital G-Tech,100.71,https://www.lorempixel.com/395/178,Magazine Luiza,14,2
+2024-05-15,42,Termômetro Digital G-Tech,136.45,https://placeimg.com/449/460/any,Netshoes,15,7
+2024-04-27,42,Termômetro Digital G-Tech,95.33,https://dummyimage.com/336x851,Ponto Frio,16,1
+2024-05-19,42,Termômetro Digital G-Tech,142.31,https://dummyimage.com/886x115,Ponto Frio,16,1
+2024-05-26,42,Termômetro Digital G-Tech,124.88,https://www.lorempixel.com/1012/16,Ponto Frio,16,13
+2024-04-10,42,Termômetro Digital G-Tech,139.88,https://placekitten.com/208/848,Ponto Frio,16,13
+2024-05-01,42,Termômetro Digital G-Tech,125.15,https://placekitten.com/446/341,Ricardo Eletro,17,5
+2024-03-25,42,Termômetro Digital G-Tech,143.93,https://placeimg.com/775/948/any,Shoptime,19,19
+2024-04-22,42,Termômetro Digital G-Tech,149.3,https://placekitten.com/849/515,Shoptime,19,14
+2024-03-09,42,Termômetro Digital G-Tech,147.46,https://placeimg.com/601/103/any,Shoptime,19,9
+2024-05-07,42,Termômetro Digital G-Tech,151.41,https://dummyimage.com/625x639,Submarino,20,17
+2024-05-18,43,Oxímetro de Pulso Yonker,398.81,https://www.lorempixel.com/202/709,Americanas,2,10
+2024-04-30,43,Oxímetro de Pulso Yonker,305.43,https://dummyimage.com/329x926,Carrefour,4,2
+2024-03-24,43,Oxímetro de Pulso Yonker,450.82,https://placekitten.com/889/301,Carrefour,4,9
+2024-05-03,43,Oxímetro de Pulso Yonker,391.46,https://placekitten.com/522/347,Fast Shop,8,12
+2024-03-18,43,Oxímetro de Pulso Yonker,379.99,https://dummyimage.com/364x729,Havan,10,19
+2024-03-30,43,Oxímetro de Pulso Yonker,516.04,https://placekitten.com/384/787,Havan,10,14
+2024-04-26,43,Oxímetro de Pulso Yonker,380.79,https://www.lorempixel.com/207/616,Havan,10,1
+2024-05-03,43,Oxímetro de Pulso Yonker,436.74,https://placekitten.com/668/505,Magazine Luiza,14,4
+2024-03-25,43,Oxímetro de Pulso Yonker,448.69,https://www.lorempixel.com/726/466,Magazine Luiza,14,3
+2024-05-23,43,Oxímetro de Pulso Yonker,535.31,https://placeimg.com/650/83/any,Ricardo Eletro,17,9
+2024-04-25,43,Oxímetro de Pulso Yonker,402.87,https://placekitten.com/330/567,Ricardo Eletro,17,17
+2024-05-09,43,Oxímetro de Pulso Yonker,347.8,https://placekitten.com/515/815,Ricardo Eletro,17,1
+2024-03-09,43,Oxímetro de Pulso Yonker,337.96,https://placekitten.com/484/250,Saraiva,18,3
+2024-04-24,43,Oxímetro de Pulso Yonker,504.09,https://placeimg.com/71/439/any,Shoptime,19,16
+2024-05-19,43,Oxímetro de Pulso Yonker,315.55,https://placeimg.com/807/288/any,Shoptime,19,13
+2024-04-27,44,Smart Lâmpada LED,361.46,https://www.lorempixel.com/525/263,Amazon,1,10
+2024-03-21,44,Smart Lâmpada LED,324.44,https://dummyimage.com/471x596,Centauro,6,12
+2024-03-10,44,Smart Lâmpada LED,547.33,https://placeimg.com/176/105/any,Fast Shop,8,13
+2024-03-06,44,Smart Lâmpada LED,435.99,https://www.lorempixel.com/141/159,Fnac,9,3
+2024-05-14,44,Smart Lâmpada LED,444.27,https://placeimg.com/97/64/any,Fnac,9,3
+2024-03-23,44,Smart Lâmpada LED,548.75,https://placekitten.com/673/517,Kalunga,11,16
+2024-03-21,44,Smart Lâmpada LED,336.49,https://www.lorempixel.com/575/584,Livraria Cultura,12,2
+2024-03-15,44,Smart Lâmpada LED,463.85,https://placeimg.com/313/677/any,Lojas Renner,13,16
+2024-04-26,44,Smart Lâmpada LED,350.25,https://www.lorempixel.com/431/35,Netshoes,15,5
+2024-04-24,44,Smart Lâmpada LED,352.64,https://placekitten.com/837/209,Netshoes,15,12
+2024-05-28,44,Smart Lâmpada LED,529.3,https://placekitten.com/564/438,Shoptime,19,20
+2024-03-15,45,Placa de Vídeo NVIDIA GeForce,11.3,https://www.lorempixel.com/719/280,Amazon,1,3
+2024-03-17,45,Placa de Vídeo NVIDIA GeForce,10.24,https://placekitten.com/333/302,C&A,3,1
+2024-03-14,45,Placa de Vídeo NVIDIA GeForce,8.53,https://placekitten.com/591/711,Carrefour,4,15
+2024-05-27,45,Placa de Vídeo NVIDIA GeForce,12.78,https://placekitten.com/863/992,Casas Bahia,5,15
+2024-04-05,45,Placa de Vídeo NVIDIA GeForce,12.83,https://dummyimage.com/894x968,Centauro,6,6
+2024-03-22,45,Placa de Vídeo NVIDIA GeForce,8.98,https://www.lorempixel.com/382/72,Centauro,6,1
+2024-04-04,45,Placa de Vídeo NVIDIA GeForce,9.06,https://placeimg.com/362/902/any,Centauro,6,10
+2024-03-25,45,Placa de Vídeo NVIDIA GeForce,8.35,https://dummyimage.com/411x662,Extra,7,1
+2024-04-05,45,Placa de Vídeo NVIDIA GeForce,13.98,https://www.lorempixel.com/693/420,Fast Shop,8,7
+2024-03-08,45,Placa de Vídeo NVIDIA GeForce,13.29,https://dummyimage.com/971x309,Fast Shop,8,20
+2024-04-03,45,Placa de Vídeo NVIDIA GeForce,9.14,https://dummyimage.com/898x832,Kalunga,11,3
+2024-03-09,45,Placa de Vídeo NVIDIA GeForce,12.62,https://placeimg.com/33/247/any,Lojas Renner,13,1
+2024-03-16,45,Placa de Vídeo NVIDIA GeForce,14.98,https://placekitten.com/478/433,Lojas Renner,13,14
+2024-04-02,45,Placa de Vídeo NVIDIA GeForce,12.25,https://www.lorempixel.com/659/377,Netshoes,15,8
+2024-03-10,45,Placa de Vídeo NVIDIA GeForce,10.58,https://placekitten.com/829/605,Ricardo Eletro,17,5
+2024-04-23,45,Placa de Vídeo NVIDIA GeForce,12.65,https://dummyimage.com/926x415,Ricardo Eletro,17,14
+2024-04-08,45,Placa de Vídeo NVIDIA GeForce,14.64,https://placekitten.com/228/880,Saraiva,18,17
+2024-05-28,46,SSD Samsung EVO,864.49,https://dummyimage.com/217x68,Americanas,2,19
+2024-04-13,46,SSD Samsung EVO,981.63,https://www.lorempixel.com/667/189,C&A,3,12
+2024-05-07,46,SSD Samsung EVO,1035.69,https://placekitten.com/101/867,Carrefour,4,8
+2024-05-10,46,SSD Samsung EVO,874.27,https://dummyimage.com/399x583,Casas Bahia,5,13
+2024-04-02,46,SSD Samsung EVO,694.16,https://www.lorempixel.com/873/659,Casas Bahia,5,1
+2024-03-23,46,SSD Samsung EVO,846.55,https://www.lorempixel.com/346/919,Extra,7,8
+2024-03-16,46,SSD Samsung EVO,949.87,https://dummyimage.com/820x239,Havan,10,11
+2024-05-01,46,SSD Samsung EVO,694.74,https://www.lorempixel.com/271/186,Havan,10,9
+2024-04-24,46,SSD Samsung EVO,1009.26,https://placeimg.com/238/359/any,Kalunga,11,14
+2024-03-27,46,SSD Samsung EVO,1034.19,https://placeimg.com/457/79/any,Lojas Renner,13,9
+2024-04-23,46,SSD Samsung EVO,759.47,https://placekitten.com/183/780,Magazine Luiza,14,15
+2024-05-18,46,SSD Samsung EVO,947.89,https://placekitten.com/223/296,Netshoes,15,9
+2024-05-29,47,HD Externo Seagate,736.52,https://placekitten.com/362/337,Amazon,1,13
+2024-05-17,47,HD Externo Seagate,681.25,https://placeimg.com/752/448/any,Americanas,2,18
+2024-03-12,47,HD Externo Seagate,842.42,https://placeimg.com/379/103/any,C&A,3,16
+2024-05-01,47,HD Externo Seagate,828.28,https://dummyimage.com/794x543,C&A,3,9
+2024-03-03,47,HD Externo Seagate,925.49,https://placekitten.com/577/539,C&A,3,9
+2024-04-20,47,HD Externo Seagate,742.02,https://www.lorempixel.com/293/694,Carrefour,4,13
+2024-05-11,47,HD Externo Seagate,686.02,https://placekitten.com/264/888,Carrefour,4,4
+2024-04-23,47,HD Externo Seagate,846.45,https://dummyimage.com/307x253,Casas Bahia,5,5
+2024-03-21,47,HD Externo Seagate,818.51,https://placekitten.com/653/655,Casas Bahia,5,19
+2024-05-04,47,HD Externo Seagate,592.49,https://placekitten.com/282/199,Centauro,6,18
+2024-04-16,47,HD Externo Seagate,662.66,https://www.lorempixel.com/431/448,Extra,7,18
+2024-03-19,47,HD Externo Seagate,561.32,https://placekitten.com/310/776,Extra,7,6
+2024-05-21,47,HD Externo Seagate,981.27,https://www.lorempixel.com/456/662,Fast Shop,8,6
+2024-04-14,47,HD Externo Seagate,774.72,https://www.lorempixel.com/894/842,Kalunga,11,5
+2024-03-08,47,HD Externo Seagate,565.23,https://placeimg.com/949/571/any,Livraria Cultura,12,16
+2024-04-30,47,HD Externo Seagate,875.1,https://placekitten.com/38/299,Lojas Renner,13,9
+2024-05-17,47,HD Externo Seagate,634.33,https://dummyimage.com/202x981,Lojas Renner,13,9
+2024-05-11,47,HD Externo Seagate,810.72,https://www.lorempixel.com/738/799,Netshoes,15,7
+2024-03-01,47,HD Externo Seagate,736.91,https://placekitten.com/601/992,Netshoes,15,9
+2024-03-10,47,HD Externo Seagate,749.24,https://dummyimage.com/122x177,Ponto Frio,16,19
+2024-04-13,47,HD Externo Seagate,628.92,https://dummyimage.com/20x477,Ricardo Eletro,17,9
+2024-05-01,47,HD Externo Seagate,767.24,https://placekitten.com/716/143,Ricardo Eletro,17,2
+2024-04-30,47,HD Externo Seagate,651.91,https://www.lorempixel.com/209/122,Saraiva,18,3
+2024-04-03,47,HD Externo Seagate,590.27,https://www.lorempixel.com/266/418,Shoptime,19,19
+2024-03-27,47,HD Externo Seagate,966.27,https://placeimg.com/288/173/any,Shoptime,19,2
+2024-04-13,47,HD Externo Seagate,769.89,https://dummyimage.com/795x500,Submarino,20,18
+2024-03-18,47,HD Externo Seagate,945.79,https://placekitten.com/201/464,Submarino,20,9
+2024-03-18,48,Memória RAM Kingston,640.48,https://placekitten.com/490/384,Amazon,1,2
+2024-04-05,48,Memória RAM Kingston,559.1,https://placeimg.com/612/1/any,Americanas,2,11
+2024-05-08,48,Memória RAM Kingston,693.63,https://placekitten.com/847/552,C&A,3,13
+2024-04-07,48,Memória RAM Kingston,995.54,https://dummyimage.com/486x985,Carrefour,4,2
+2024-05-22,48,Memória RAM Kingston,988.98,https://placeimg.com/295/561/any,Centauro,6,11
+2024-03-18,48,Memória RAM Kingston,707.67,https://placekitten.com/204/491,Fast Shop,8,13
+2024-03-27,48,Memória RAM Kingston,878.1,https://www.lorempixel.com/323/486,Kalunga,11,17
+2024-05-24,48,Memória RAM Kingston,666.53,https://dummyimage.com/88x113,Kalunga,11,7
+2024-04-30,48,Memória RAM Kingston,843.0,https://www.lorempixel.com/270/838,Livraria Cultura,12,12
+2024-04-19,48,Memória RAM Kingston,703.98,https://dummyimage.com/448x568,Ponto Frio,16,6
+2024-03-01,48,Memória RAM Kingston,944.48,https://www.lorempixel.com/554/746,Saraiva,18,3
+2024-05-14,48,Memória RAM Kingston,571.66,https://placekitten.com/886/625,Submarino,20,11
+2024-03-02,49,Processador Intel Core i7,137.29,https://www.lorempixel.com/491/693,C&A,3,9
+2024-03-02,49,Processador Intel Core i7,120.57,https://dummyimage.com/913x125,Carrefour,4,8
+2024-04-10,49,Processador Intel Core i7,92.91,https://placeimg.com/169/360/any,Centauro,6,1
+2024-05-21,49,Processador Intel Core i7,130.65,https://placeimg.com/894/365/any,Havan,10,14
+2024-04-13,49,Processador Intel Core i7,120.51,https://placeimg.com/805/354/any,Kalunga,11,3
+2024-04-20,49,Processador Intel Core i7,130.91,https://placeimg.com/295/651/any,Kalunga,11,20
+2024-05-30,49,Processador Intel Core i7,126.71,https://placeimg.com/533/606/any,Kalunga,11,17
+2024-04-12,49,Processador Intel Core i7,119.62,https://dummyimage.com/879x387,Magazine Luiza,14,20
+2024-03-08,49,Processador Intel Core i7,155.73,https://placeimg.com/96/35/any,Netshoes,15,5
+2024-03-05,49,Processador Intel Core i7,139.52,https://dummyimage.com/46x877,Ricardo Eletro,17,18
+2024-03-17,49,Processador Intel Core i7,91.73,https://dummyimage.com/98x145,Shoptime,19,18
+2024-03-03,49,Processador Intel Core i7,92.79,https://dummyimage.com/151x612,Shoptime,19,4
+2024-04-26,49,Processador Intel Core i7,110.78,https://www.lorempixel.com/561/313,Submarino,20,15
