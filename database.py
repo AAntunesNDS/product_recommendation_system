@@ -2,16 +2,16 @@ from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
-SQLALCHEMY_DATABASE_URL = "sqlite:///./sql_app.db"  # para SQLite, pode ser alterado para outro BD
+SQLALCHEMY_DATABASE_URL = "sqlite:///./sql_app.db" 
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}, echo=True)
-SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+#SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
-Base.metadata.create_all(bind=engine)
+
 
 def get_db():
-    db = SessionLocal()
+    #Base.metadata.create_all(bind=engine)
     try:
-        yield db
+        yield Base.metadata.create_all(bind=engine)
     finally:
-        db.close()
+        Base.metadata.create_all(bind=engine).close()

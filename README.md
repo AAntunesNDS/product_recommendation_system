@@ -1,30 +1,109 @@
-import datetime
-import pandas
+# Product Recommendation System
 
-print(datetime.datetime.now())
+Este projeto é um sistema de recomendação de produtos baseado em uma API web, utilizando dados de vendas de produtos. A recomendação é feita com base em dados de vendas e pode ser aprimorada em versões futuras para incluir dados de compras de usuários e autenticação.
 
-# Product Recomendation System 
-# Web API para recomendação de produtos para usuários, 
-# baseado apenas em dados de vendas de produtos.
+Dentro do seguinte path: product_recomendation_system/db/analise_dados.ipynb tem uma breve análise dos dados
 
+## Versão 0 (V.0)
 
-# V.0
-# API
-    # FAST API
-        # authenticacao
-        # GET_RECOMENDATION(USER_ID) -> [Produto:5]
-# ALGORITIMO DE RECOMENDACAO DE PRODUTO
-    # ANALISE DO xpto_sales_products_mar_may_2024.csv
-    # PARA CRIACAO DE HEURISTICA
+### API
+- **Framework:** FastAPI
+- **Endpoint:** `GET /recommendation/{user_id}`
+- **Descrição:** Retorna uma lista dos 5 produtos recomendados para o usuário com base nas vendas.
 
-# V.1
-# API
-# ALGORITIMO DE RECOMENDACAO DE PRODUTO
-# UTILIZAR BANCO DE DADOS RELACIONAL 
+### Banco de Dados
+- **Tipo:** CSV Estático
+- **Arquivo:** `xpto_sales_products_mar_may_2024.csv`
 
-# V.2
-# API
-# ALGORITIMO DE RECOMENDACAO DE PRODUTO
-# UTILIZAR BANCO DE DADOS RELACIONAL 
-# MENSAGERIA PARA GARANTIR
-# PROCESSAMENTO DE MENSAGENS DE REQUISICAO
+### Algoritmo de Recomendação de Produto
+- **Análise:** Processa e analisa o CSV de vendas.
+- **Categorização:** Classificação de produtos por categoria.
+- **Agrupamento:** Analise das vendas por dia da semana.
+
+## Versão 1 (V.1)
+
+### API
+- **Autenticação:** Implementar autenticação de usuários para rotas personalizadas.
+
+### Banco de Dados
+- **Banco de Dados:** Migrar para um banco de dados relacional. Pode conter usuários e vendas consolidadas
+
+### Algoritmo de Recomendação de Produto
+- **Dados de Compras de Usuário:** Utilizar dados históricos de compras para recomendações personalizadas.
+
+## Ambiente de Desenvolvimento
+
+### Pré-requisitos
+Certifique-se de ter o Python 3.8 ou superior instalado.
+
+### Instalação
+
+1. **Clone o repositório:**
+
+    ```bash
+    git clone https://github.com/usuario/projeto-recomendacao.git
+    cd projeto-recomendacao
+    ```
+
+2. **Crie um ambiente virtual:**
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # No Windows use `venv\Scripts\activate`
+    ```
+
+3. **Instale as dependências:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Execute a aplicação:**
+
+    ```bash
+    uvicorn main:app --reload --host 0.0.0.0 --port 8000
+    ```
+
+    A aplicação estará disponível em `http://127.0.0.1:8000/docs`.
+
+## Docker
+
+### Construir a Imagem
+
+1. **Crie um arquivo `Dockerfile` no diretório raiz com o seguinte conteúdo:**
+
+    ```dockerfile
+    # Usar uma imagem base do FastAPI com Uvicorn e Gunicorn
+    FROM tiangolo/uvicorn-gunicorn-fastapi:python3.9
+
+    # Definir o diretório de trabalho
+    WORKDIR /app
+
+    # Copiar o arquivo de dependências
+    COPY requirements.txt ./
+    RUN pip install --no-cache-dir -r requirements.txt
+
+    # Copiar o restante dos arquivos do projeto
+    COPY . .
+
+    # Definir o comando para iniciar a aplicação
+    CMD ["uvicorn", "main:app", "--reload", "--host", "0.0.0.0", "--port", "80"]
+    ```
+
+2. **Construa a imagem Docker:**
+
+    ```bash
+    docker build -t produto-recomendacao .
+    ```
+
+3. **Execute o contêiner Docker:**
+
+    ```bash
+    docker run -d -p 80:80 produto-recomendacao
+    ```
+
+    A aplicação estará disponível em `http://localhost` no seu navegador.
+
+## Contribuições
+
+Sinta-se à vontade para contribuir com melhorias e correções. Envie um pull request ou abra uma issue para discutir novas funcionalidades.

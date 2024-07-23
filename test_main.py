@@ -1,6 +1,6 @@
 from fastapi.testclient import TestClient
 import pytest
-from main import app  # Certifique-se de importar o app da maneira correta
+from main import app  
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from database import Base, get_db
@@ -8,7 +8,6 @@ from models import Product
 from recomender import ProductRecommender
 import crud, schemas, auth
 
-# Configuração do banco de dados de teste
 SQLALCHEMY_DATABASE_URL = "sqlite:///./test.db"
 engine = create_engine(SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False})
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
@@ -29,9 +28,9 @@ def test_client():
     return client
 
 def test_create_user(test_client):
-    response = test_client.post("/users/", json={"email": "test@example.com", "password": "testpassword"})
+    response = test_client.post("/users/", json={"email": "test2@example.com", "password": "testpassword"})
     assert response.status_code == 200
-    assert response.json()["email"] == "test@example.com"
+    assert response.json()["email"] == "test2@example.com"
 
 def test_create_user_duplicate(test_client):
     test_client.post("/users/", json={"email": "test@example.com", "password": "testpassword"})
@@ -52,7 +51,7 @@ def test_login_for_access_token_invalid(test_client):
     assert response.json()["detail"] == "Incorrect username or password"
 
 def test_read_recommended_products_v0(test_client):
-    # Mock do ProductRecommender para evitar leitura de arquivo real
+
     def mock_recommend_products(self, id_usuario, version):
         return [{
             "id": 1,
@@ -67,7 +66,7 @@ def test_read_recommended_products_v0(test_client):
             "day_of_week": "Monday"
         }]
     
-    # Substituir o método recommend_products do ProductRecommender
+    
     ProductRecommender.recommend_products = mock_recommend_products
     response = test_client.get("/v0/products/1")
     assert response.status_code == 200
@@ -75,7 +74,7 @@ def test_read_recommended_products_v0(test_client):
     assert response.json()[0]["name"] == "Product 1"
 
 def test_read_recommended_products_v1(test_client):
-    # Mock do ProductRecommender para evitar leitura de arquivo real
+    
     def mock_recommend_products(self, id_usuario, version):
         return [{
             "id": 1,
@@ -90,7 +89,7 @@ def test_read_recommended_products_v1(test_client):
             "day_of_week": "Monday"
         }]
     
-    # Substituir o método recommend_products do ProductRecommender
+    
     ProductRecommender.recommend_products = mock_recommend_products
     response = test_client.get("/v1/products/1")
     assert response.status_code == 200
