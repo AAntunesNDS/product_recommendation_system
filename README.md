@@ -4,6 +4,7 @@ Este projeto é um sistema de recomendação de produtos baseado em uma API web,
 
 Dentro do seguinte path: product_recomendation_system/db/analise_dados.ipynb tem uma breve análise dos dados
 
+
 ## Versão 0 (V.0)
 
 ### API
@@ -31,6 +32,12 @@ Dentro do seguinte path: product_recomendation_system/db/analise_dados.ipynb tem
 ### Algoritmo de Recomendação de Produto
 - **Dados de Compras de Usuário:** Utilizar dados históricos de compras para recomendações personalizadas.
 
+Segue imagem com o escopo do System Design iniciais do projeto:
+
+![Alt text](/img/ProductRecommender.png?raw=true "Title")
+
+
+
 ## Ambiente de Desenvolvimento
 
 ### Pré-requisitos
@@ -41,8 +48,8 @@ Certifique-se de ter o Python 3.8 ou superior instalado.
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/usuario/projeto-recomendacao.git
-    cd projeto-recomendacao
+    git clone https://github.com/AAntunesNDS/product_recommendation_system.git
+    cd product_recommendation_system
     ```
 
 2. **Crie um ambiente virtual:**
@@ -64,7 +71,9 @@ Certifique-se de ter o Python 3.8 ou superior instalado.
     uvicorn main:app --reload --host 0.0.0.0 --port 8000
     ```
 
-    A aplicação estará disponível em `http://127.0.0.1:8000/docs`.
+    A documentação e o os usos da rotas estão  disponíveis em `http://127.0.0.1:8000/docs`.
+
+![Alt text](/img/API.png?raw=true "Title")
 
 ## Docker
 
@@ -104,6 +113,8 @@ Certifique-se de ter o Python 3.8 ou superior instalado.
 
     A aplicação estará disponível em `http://localhost` no seu navegador.
 
-## Contribuições
+## Versões futuras
 
-Sinta-se à vontade para contribuir com melhorias e correções. Envie um pull request ou abra uma issue para discutir novas funcionalidades.
+Para versões futuras podem ser considerados Jobs que alimentem os bancos de dados para realizar predições mais precisas
+
+Dependendo do número de requisições para api, também podem ser criados Load Balancers e/ou Filas de Mensageria, como SQS, para garantir que todas as requisições gerem resultados e sejam expostos em um endpoint separado.
