@@ -14,14 +14,6 @@ load_dotenv()
 
 app = FastAPI()
 
-@app.get("/test-db-connection")
-def test_db_connection(db: Session = Depends(database.get_db)):
-    try:
-        # Executa uma simples consulta
-        result = db.execute(text("SELECT * FROM sqlite_master;"))
-        return {"message": "Database connection successful", "result": result.scalar()}
-    except Exception as e:
-        return {"message": "Database connection failed", "error": str(e)}
 
 @app.post("/users/", response_model=schemas.User)
 def create_user(user: schemas.UserCreate, db: Session = Depends(database.get_db)):
@@ -53,7 +45,7 @@ def read_recommended_products(id_usuario: int):
     csv_file = 'db/xpto_sales_products_mar_may_2024.csv-Página4.csv'
     return ProductRecommender(csv_file).recommend_products(id_usuario, 'v0')
 
-
+#TODO: Criar uma dependencia do do usuário estar logado e utilizar um Token de Acesso
 @app.get("/v1/products/{id_usuario}", response_model=List[Product])
 def read_recommended_products(id_usuario: int):
     csv_file = 'db/xpto_sales_products_mar_may_2024.csv-Página4.csv'
