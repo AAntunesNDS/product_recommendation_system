@@ -1,0 +1,29 @@
+version: "3.7"
+
+services:
+  db:
+    image: postgres:12
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: mydatabase
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  web:
+    build: .
+    command: bash -c "alembic revision --autogenerate -m "Initial migration""
+    ports:
+      - "8000:80"
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: postgres://user:password@db/mydatabase
+
+volumes:
+  postgres_data:

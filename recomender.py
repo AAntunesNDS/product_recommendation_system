@@ -61,7 +61,7 @@ class ProductRecommender:
                 return category
         return "Outros"
     
-    def recommend_products(self, user_id):
+    def recommend_products(self, user_id, recomendation_version):
 
         # Criando recomendação para usuario:
         print(f'Criando recomendação para usuario: {user_id}')
@@ -77,12 +77,17 @@ class ProductRecommender:
         # Buscar os produtos mais vendidos das categorias top
         for category in top_categories:
             top_products = self.df_products[self.df_products['category'] == category].sort_values(by='sales_per_day', ascending=False)
-            recommendations.extend(top_products.head(5).to_dict(orient='records'))
-            if len(recommendations) >= 5:
+            recommendations.extend(top_products.head(10).to_dict(orient='records'))
+            if len(recommendations) >= 10:
                 break
+        
         
         # Limitar a 5 recomendações
         top_products = recommendations[:5]
+
+        # Checagem de versão da recomendação para aumentar o tamanho da resposta
+        if recomendation_version == 'v1':
+            top_products = recommendations[:10]
         
         # Garantir que cada produto está formatado corretamente
         products = []

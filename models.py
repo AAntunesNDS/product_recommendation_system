@@ -1,3 +1,5 @@
+from sqlalchemy import Column, Integer, String
+from database import Base
 from pydantic import BaseModel
 
 class Product(BaseModel):
@@ -12,31 +14,9 @@ class Product(BaseModel):
     store_id: int
     day_of_week: str
 
+class User(Base):
+    __tablename__ = "users"
 
-fake_users_db = {
-    "johndoe": {
-        "username": "johndoe",
-        "full_name": "John Doe",
-        "email": "johndoe@example.com",
-        "hashed_password": "fakehashedsecret",
-        "disabled": False,
-    }
-}
-
-class User(BaseModel):
-    username: str
-    email: str
-    full_name: str = None
-    disabled: bool = None
-
-class UserInDB(User):
-    hashed_password: str
-
-def fake_decode_token(token):
-    user = get_user(fake_users_db, token)
-    return user
-
-def get_user(db, username: str):
-    if username in db:
-        user_dict = db[username]
-        return UserInDB(**user_dict)
+    id = Column(Integer, primary_key=True, index=True)
+    email = Column(String, unique=True, index=True)
+    hashed_password = Column(String)
